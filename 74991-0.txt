@@ -1,0 +1,2628 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 74991 ***
+
+language: Finnish
+
+
+
+
+SOSIALISTISEN FILOSOFIAN JUURET
+
+Feuerbachin filosofian kritiikkiä
+
+
+Kirj.
+
+FRIEDRICH ENGELS
+
+
+Englanninkielestä suomentanut
+
+H. Puro
+
+
+
+
+
+Sudbury, Ontario,
+VAPAUDEN kirjapaino,
+1922
+
+
+
+
+SISÄLLYS:
+
+Austin Lewisin alkulause.
+Tekijän Johdanto.
+Feuerbach.
+Liite: Marx Feuerbachista.
+
+
+
+
+AUSTIN LEWISIN ALKULAUSE.
+
+
+Austin Lewis, joka on kääntänyt tämän teoksen saksasta englannin
+kielelle, on kirjoittanut teokseen seuraavanlaisen alkulauseen:
+
+Tämä teos kuljettaa meidät ajassa takaisin yli seitsemänkymmentä
+vuotta, aikaan, jolloin se liike, millä nykyisin on yleismaailmallinen
+merkitys, oli lapsuusasteellaan. Hegel ja vuoden 1848 vallankumous;
+nämä olivat käännekohtia. Edelliselle me olemme velkaa sosialististen
+oppien filosofisen muodon, viime mainitulle sen käytännöllisen
+toiminnan liikkeenä.
+
+Noiden päivien levottomuuksien ja taisteluiden ja näennäisen,
+häviön keskellä kaksi miestä, Marx ja Engels, maanpakolaisina
+ja ilman vaikutusvaltaa, istuivat kirjainsa ääreen ja ryhtyivät
+laboratorisesti antamaan muotoa ja perusteita kaikkien aikojen
+vaikutus viimeisimmälle intellektuaaliset ja poliittiselle liikkeelle.
+Tämän tehtävänsä suorittamisessa he asettivat suuren lahjakkuutensa,
+oppineisuutensa ja kyvykkäisyytensä ankaraan työhön ja väsymättömään
+tutkiskeluun. Kaikissa näissä avulla heidän lahjakkuutensa olivat
+suuria. Marx omasi jättiläismäisen järjen; ei yksikään toinen
+yhteiskunnallisten kysymysten tutkija, ei edes Herbert Spencer, ole
+voinut voittaa häntä, sillä ainoastaan sosialisti voi omata kyllin
+suuren laaja-antoisuuden, suhteellisuuksien älyämisen ja yleisyyden
+käsityskyvyn, näihin yhdistyen käsitysten suoruus, jotka kaikki
+tekijät asettavat Marxin omaan erikoisluokkaansa. Engels oli kyvykäs
+apulainen ja kanssatyöskentelijä Marxille. Hän oli syvällinen ja tarkka
+ajattelija, mitä kärsivällisin tutkija ja huolekas kirjoittaja. Ollen
+käytännöllisempi kuin hänen ystävänsä, kykeni hän paremmin suoriutumaan
+aineellisista probleemeista, hänen neuvonsa ja kukkaronsa oli aina
+Marxin käytettävänä.
+
+Marx olisi tuskin voinut työskennellä vaikeimmissa oloissa mitä hän oli
+pakotettu tekemään. Köyhyys, tilaisuuksien puute, innostavan seuran
+kaipuu ja täydellinen puute kaikenlaisesta rohkaisusta ja sympatiasta,
+sellaisesta mitä hänen herkkä mielenlaatunsa kaipasi, kaikki nämä
+puutteet olivat hänen osansa. Hänen mitä suurinta oppineisuutta
+osottavat teoksensa, olivat kirjoitetut ryhmälle työmiehiä, hänen mitä
+ahkerimmat ponnistelun olivat tehdyt vailla minkäänlaista toivoa saada
+tunnustusta oppineilta ja vaikutusvaltaisilta henkilöiltä.
+
+Kaikkien näiden vuosien varrella pysyi Engels hänen uskollisena
+ystävänä ja auttoi häntä monissa vaikeassa pulassa, kun hänen
+perhehuolensa ja kireät olosuhteet painoivat ankarasti vanhaa
+vallankumousmiestä.
+
+Tämä teos on Engelsin todistuskappale siitä metoodista mitä nämä
+työkaverukset käyttivät tehdessään filosofisia johtopäätöksiään.
+Tämä teos on uudenajan sosialistisen filosofian perusteiden selostus
+henkilöltä, joka auttoi näiden perusteiden laskemista; se on vanhan
+miehen tilintarkastus valmistelusta siihen alkutyöhön, johon hän on
+uhrannut koko elämänsä, sillä tämä teos, huolimatta siitä että se on
+lyhyt, käsittää neljänkymmenen vuotisen aherruksen ja huolellisten
+ponnistusten tulokset.
+
+Samalla kun "Kommunistinen Manifesti" oli kaikella nuoruuden
+kiivaudella perustuslailliselle auktoriteetille viskattu
+taisteluhaaste, niin on tämä teos vanhan veteraanin vakava selostus,
+veteraanin, joka on oppinut tehtävänsä liian hyvin, jättääkseen siihen
+mitään aukkoja, ja niin ollen ryhtyy repimään mataloita mielipiteitä,
+kärsivällisyydellä, mutta samalla kuolettavasti ja kaikella
+perinpohjaisuudella.
+
+Askel askeleelta, rakentaa hän väitelmänsä. Hän kaivaa esiin vanhat,
+jo kauan sitten haudatut vanhojen väittelyjen aaveet, jotka osottavat,
+kuinka kuolemattomasti yhdistyneenä Marxin ja Engelsin nimet
+ilmestyivät näyttämölle; "nuorhegeliläiset", "Tuebengenin koulukunta",
+ja lopuksi itse Feuerbach kutsutaan haudastaan, jonne 1848 vuoden
+vallankumous on heidät viskannut. Ja niin vanhanajan historiaa kuin
+nämä väittelyt ovatkin saksalaisten näkökannalta, niin kuitenkin on
+englanninkieltä puhuvien kansojen filosofia siinä määrin takapajulla,
+että me näemme Engelsin uudelleen ja uudelleen tekevän paljastuksia
+epäkohdista, jotka ovat tärkeitä yksin meidän aikakaudellemme, ja
+pilkkaavan niitä mielipiteitä joita me otamme vastaan hyväksymisellä
+meidän poliittisissa kokouksissamme ja äänettömällä hyväksymisellä
+kirkoissa ja uskonnollisissa kokoushuoneissa. Uskonnonvastainen sävy
+on ilmeinen kautta teoksen, joka itsessään on kaiku kaukaisessa
+menneisyydessä tapahtuneista väittelyistä, jolloin Raamatun
+kritiseeraajat nostivat milloin suuremman tai pienemmän metelin kautta
+kristikunnan, ennen kuin Korkeampi Kritiikki tuli kunnioitetuksi ja
+ennen kuin tekopyhät skeptikot voivat edelleen hartaina jatkaa kirkossa
+käyntiään.
+
+Lienee paikallaan myöskin huomauttaa, että tämä teos kirjoitettiin
+Saksassa saksalaisille työmiehille, joille uskonto ei ollut samasta
+merkityksestä kuin mitä se vieläkin on englanninkieltä puhuvalle
+väestölle, jonka herkkä kansalaistunto näyttää kestävän pidemmälle
+kuin heidän uskonsa. Ja olkoonpa miten hyvänsä tämän asian laita,
+uskonnolliset ryhmäkunnat omaavat ihmeteltävän ja mahdollisesti
+tyydyttävän avun niellä tieteen totuuksia ja silti yhä jatkaa
+olemassaoloaan, ja vieläpä säilyttää sellaisen ruokahalun, jota
+kokematon voi erehdyksessä luulla kuolemattomaksi.
+
+Nämä seikat huomioon ottaen voidaan syyttä toivoa, että Engelsin
+huomautukset koskettaisivat yksin vaaraa välttämään pyrkineitäkin,
+vaikkakin on muistettava, että hyvin kyvykäs englantilainen
+sosialistinen filosofi tiedetään vahingoittaneen arvoaan suuresti
+harkitsemattomalla herra Swinburnen siteeraamisella.
+
+On tunnustettava, että sitä paikoittaista katkeruutta, mitä Engels
+osoittaa työssä, joka on niin välttämättömästi intellektuaalista
+luonteeltaan, on pahoteltava, mutta sitä ei ole kuitenkaan ihmeteltävä.
+Hänen tuomionsa yliopistoprofessorin ja oletetusti valistuneihin
+luokkiin nähden, jotka selittävät niin paljon asioita viertävältä
+pinnalta, ei ole ensinkään outoa, kun otetaan huomioon hänen ja
+hänen aatetoveriensa rehellinen työ ja verrataan sitä pintapuolisten
+toimien tavoittelijaritarien työhön. Engels rakastaa oppineisuutta
+asian harrastuksesta, totuuden ja tieteellisen tarkkuuden takia, joten
+hän ei voi tuntea muuta kuin vihaa niitä kohtaan, jotka käyttävät
+oppineisuuttaan tyydyttääkseen rikkaitten omaatuntoa ja saavuttaakseen
+asemia ja valtaa itselleen. Saksalaisen filosofian alennustila herättää
+hänessä syvää surua; oppinut siellä on turmeltu narri. "Kuohittu",
+"lakeijamaisuus", näillä termeillä hän määrittelee virallisten
+professorien opetukset, ja nämä nimitykset ovat melkein liian lieviä
+sovitettavaksi hengettömiin ja kaikkea innostusta vailla oleviin
+englanninkielisiin taloustieteen ja filosofian nimellä opiskeleviin
+tutkijoihin nähden.
+
+Ensimmäisessä osassaan tätä teosta Engels luo lyhyen, mutta tiiviin
+tarkkailun Hegelin ja myöhemmin hegeliläisen koulukunnan työhön.
+Hän osottaa mitenkä Hegelin filosofialla on sekä vanhoillinen että
+radikaalinen puolensa, ja kuinka sekä vanhoilliset että radikaalit
+voivat, (kuten he tekevätkin) hakea tukea hänen opeistaan, erikoisesti
+viittaa hän tässä suhteessa hänen suuriin pääteoksiinsa "Järjestelmä"
+ja "Dialektiikka".
+
+Äärimmäinen vasemmisto dialektiikkaa käyttämällä ja siten kehitettyä
+filosofista oppia hyväkseen käyttäen, suuntasi kritiikkinsä
+voimassaolevia poliittisia ja uskonnollisia laitoksia vastaan.
+Tästä oli seurauksena vähitellen abstraktisen osan hegeliläisestä
+filosofiasta poiskarsiminen, ja sen sijaan tosiasiain ja ilmiöiden
+tutkiminen otti yhä kasvavassa määrin sen sijan.
+
+Marx oli nuoruudessaan lukeutunut "nuorhegeliläisiin", kuten tätä
+koulukuntaa nimitettiin, mutta tällä seikalla ei ollut mitään
+häiritsevää vaikutusta hänen myöhempään työskentelyynsä. Hänen
+arvostelijansa käyttävät tätä seikkaa suurena tekijänä siihen
+vaikeatajuiseen kielenkäyttöön, josta hänen "Pääoma"-teoksensa
+paikoittain kärsii. Hänen kiduttavaisuuteen asti käyttämänsä
+teesit, antiteesit ja synteesit, hänen järkkymätön dialektiikasta
+kiinnipitämisestä ja hänen jatkuva hegeliläisen filosofian käyttönsä,
+ovat kaikki selitettävissä hänen aikaisemmista väittelykokemuksistaan.
+Ja kuitenkin hänen kärsivällinen asiain tutkimisensa, hänen ehdoton
+nojautumisensa positiiviseen tietoisuuteen, abstraktisen teorian
+sijaan, ja hänen huolellinen sinisten kirjain (Valtion asiakirjoja)
+ja tilastojen käyttökykynsä, olivat suuressa määrin saman kasvatuksen
+tuloksia.
+
+Samoin me huomaamme Engelsin tämän tuosta tässä teoksessaan käyttävän
+ihmeteltävää väittelyterävyyttä, kuten esimerkiksi käsitellessään
+fraasia "Kaikki mikä on todellista on järjellistä ja kaikki mikä on
+järjellistä on todellista" (Alles was wirklich ist, ist vernünftig,
+und alles was vernünftig ist, ist wirklich). Tältä selityskannalta,
+hegeliläistä väitelmää kehittäen, hän pääsee johtopäätökseen,
+että sosiaalisen ja poliittisen ilmiön arvo sen siirtymiskaudessa
+välttämättömästi heikkenee. Siitä johtuu myöskin dogmaattisen
+selityksen ja pelkän subjektiivisen ajattelun hävittäminen filosofiaa
+käsitellessä, joka merkitsee sen vanhan koulukunnan murskaamista, jonka
+pääedustajana Kant oli ja sen tilalle uuden koulukunnan kehittäminen,
+jonka kyvykkäimmät opettajat olivat, ja yhäkin ovat, materialistiset
+sosialistit, joista Engels ja Marx olivat näiden etunenässä.
+
+Tämän historiallisen teoksen tarkoitus on esittää Feuerbachin,
+samoin kuin Marxin ja Engelsin filosofian alkuperä. Samalla aikaa
+kuin taistelu nuorhegeliläisten ja konservatiivisten ainesten
+välillä kuumenee, ajautuvat radikaalit takaisin edellisen vuosisadan
+englantilais-ranskalaiseen materialismiin. Tämä oli vastenmielistä
+Hegelin seuraajille, jotka oli opetettu pitämään aineellisia
+olioita ikäänkuin vain pelkkinä selityksinä aatteista. Feuerbach
+vapautti heidät näistä ristiriitaisuuksista. Hän tarttui kysymyksiin
+pelkäämättömästi ja virkasi hegeliläisen abstraktisuuden täydellisesti
+syrjään. Hänen teoksensa, "Wesen des Christenthumus", jossa hänen
+ajatuksensa on selitettynä, tuli sangen äkkiä tunnetuksi, jonka
+englanninkielisen käännöksen toimitti George Eliot nimellä "Essence
+of Christianity" [Kristinuskon olemus. — Suom. muistutus.], joka sai
+sangen laajan lukijakunnan.
+
+Engels ei millään muotoa tahdo kieltää antamasta tunnustusta
+tälle teokselle ja sen vaikutukselle sekä itseensä että yleensä
+valistuneeseen mailmaan. Tämän "loppumattoman kunnian" annettuaan, hän
+kuitenkin hyökkää ankarasti Feuerbachin idealistisen humanitaarisuuden
+kimppuun, jolle hän perustaa siveysopilliset teoriansa.
+
+Vaikkakin Feuerbach on tullut materialistisen johtopäätöksiin,
+selitti hän ei voivansa hyväksyä materialismia oppina. Hän selostaa,
+että sikäli kuin menneisyys on kyseessä on hän materialisti, mutta
+tulevaisuuden suhteen hän ei sitä ole. — "Menneisyyteen nähden minä
+olen sopusoinnussa materialismin kanssa, tulevaisuuteen nähden
+en". — Tämä selostus panee Engelsin tutkimaan kahdeksannentoista
+vuosisadan materialismia, jonka hän huomaa puhtaasti mekaaniseksi,
+jolla ei ole mitään käsitystä maailmankaikkeuden kehityksestä, ja
+on niin ollen aivan riittämätön sen ajan filosofian tarpeisiin,
+josta Feuerbach kirjoitti; koska tällä välin tieteen edistys ja
+suurempi yleistyttämisvoima, johtuen kärsivällisestä kokeilusta ja
+kehityksellisen teorian edistymisestä, on tehnyt kahdeksannentoista
+vuosisadan katsantokannat kokonaan paikkansa pitämättömiksi.
+
+Nämä "_suulaat_ kaupustelijat" (vulgärisirenden Hausierer) saavat
+ankaran tuomionsa Engelsin käsissä. Nämä suositut materialistit
+— "puoli ateistit", ilman tieteelle perustuvaa tietoa ja ollen
+pelkästi taitavia puhumataidossa tai kirjoitustyylissä, käyttivät
+tieteen jokaista saavutusta aseena hyökätessään luojaa ja yleisesti
+tunnustettua uskontoa vastaan. Engels pilkkaa näitä, etteivät he
+ole tiedemiehiä ensinkään, vaan ainoastaan pelkkiä kaupustelijoita,
+käsitellen puoltieteellisiä tavaralajeja. Hän kutsuu heidän ammattiaan
+kauppatoimeksi, liikkeeksi (Geschäft). Samasta luokasta kohosi suuri
+joukko uskonnonhaukkuja-luennoitsijoita, jotka erääseen aikaan
+täyttivät luentolavat kaikissa englanninkielisissä maissa ja joiden
+seassa Bradlaugh ja Ingersoll olivat kaikessa suhteessa parhaita
+edustajia. Nämä uskonnonhaukkujat ovat nyttemmin menettäneet kaiken
+vaikutusvaltansa, ja vapaa-ajattelijaseurat, jotka erääseen aikaan
+olivat niin lukuisia, ovat miltei kokonaan hävinneet. Engelsin
+esittämien teoriain mukaan nämä olivat pakotetut häviämään; heidän
+opetuksillaan ei ollut mitään yhteyttä yhteiskunnallisen kehityksen
+kanssa; he eivät lisänneet mitään tieteellistä arvoa nykyaikaiselle
+ajatukselle, ja Engels huolellisesti osottaa, että heidän historian
+lukemisestaan puuttui tieteellinen havaintokyky, ja kyky ammentaa
+tieteellisiä ajatuksia historiallisen kehityksen suurista periaatteista.
+
+Kolmas osa tästä Engelsin pienestä teoksesta käsittelee sangen
+mielenkiintoista kysymystä, joka yhä häiritsee filosofien mieliä
+ja keskustelu sen johdosta on käynnissä yksinpä materialistienkin
+keskuudessa; se on uskonnon suhde yhteiskunnalliseen kehitykseen.
+Feuerbach on selittänyt että yhteiskunnallisen kehityksen vaihekaudet
+on merkitty uskonnollisten muutosten merkeillä. Hän käyttää
+uskontoa ikäänkuin samanmukaisena inhimillisen rakkauden kanssa,
+selittäen uskonto-sanan merkityksen johtuneen latinalaisesta sanasta
+"religare", "kiinnittää", antaakseen sille muinaiskielitieteellisen
+ja kehityksellisen tarkoituksen selostuksensa tukemiseksi, ollen
+tämä väittelytaiteellinen temppu, jonka Engels kumoaa. Selityksen,
+että suurten historiallisten vallankumousten mukana on seurannut
+uskonnolliset muutokset, sanoo Engels olevan paikkansa pitämättömän,
+paitsi ainoastaan rajoitetussa merkityksessä, nimittäin kolmeen suureen
+mailman uskontoon nähden — kristinuskoon, muhamettilaisuuteen ja
+buddhalaisuuteen nähden.
+
+Engels väittää, että uskonnolliset muutokset yhdessä taloudellisten
+ja poliittisten muutosten kanssa pysähtyivät sangen lyhyeen
+porvarillisessa vallankumouksessa, joka tehtiin ilman uskontoon
+vetoamatta. On ilmeistä ettei tämä ole kokonaan totta, sillä
+englanninkieltä puhuvissa maissa ainakin, ei ainoastaan porvaristo,
+mutta hyvin usein myöskin proletaariset liikkeet yrittivät selittää
+oikeudellisuutensa vetoomalla Raamattuun. Raamatun oppeja ja
+Vuorisaarnaa on usein käytetty vallankumouksellisia liikkeitä tukemaan;
+vieläpä Englannin ja Amerikan kristillisille sosialisteille on
+myönnetty oikeus olla edustettuna kansainvälisissä kongresseissa; vielä
+muitakin esimerkkejä uskonnon yhteydestä proletaarisen liikkeen kanssa
+voitaisiin esittää.
+
+Mutta laajemmassa merkityksessä Engelsin väite on epäilemättä pätevä.
+Proletaarinen liike, ollen eroava porvarillisesta, ei ole kehittänyt
+mitään määrättyä uskonnollista koulukuntaa, se ei ole omistanut
+itselleen mitään erikoista uskonnollista oppia. Päinvastoin kirkon
+ja työväen välille näyttää kasvavan yhä suurempi juopa, jota seikkaa
+uskonnolliset sanomalehdet usein valittavat. Kuuluisan "Paavillisen
+työväenliiton" tarkoituksena on epäilemättä pyrkiä säilyttämään työväki
+kirkon yhteydessä, ja pappien vaikutusvallan alaisena toimivien
+työväen unioiden muodostaminen oli loogillinen yritys tämän liiton
+opetuksista ja vaikutuksesta [Quebecin maakunnassa on katolisten
+ammattiunioiden muodostaminen vielä näinä vuosina alettu homma ja
+täytyy sanoa, joltisenkin menestyksellä. — Suom. muistutus.] Mutta
+sellaiset uskonnolliset liikkeet eivät missään tapauksessa ole työväkeä
+edustavia; itseasiassa niitä pidetään varsinaisen tietoisemman
+proletaarisen liikkeen taholta haitallisina ja ovatkin ne sille
+vihamielisiä.
+
+Feuerbachin ihmisyys-ylistely uskontona, saa Engelsin taholta
+puoli-ivallisen, puoli-humoorisen käsittelyn, sillä hänen selitystään,
+että Feuerbachin aatteet voivat täysin toteutua torilla, ei voida ottaa
+vakavalta kannalta. Engelsin selvänäköisyys siinä, että puhtaasti
+inhimillisen uskonnon merkitys on sangen vähäpätöinen, on varsin
+ihmeteltävä, huolimatta siitä että neljäkymmentä vuotta lisäkokemusta
+Feuerbachin aatteitten tutkistelussa oli hänelle suuresta arvosta
+arvioidakseen inhimillisen uskonnon todellisen arvon inhimillisyys
+kysymyksessä. Feuerbachin jälkeen on tehty monia yrityksiä uskonnon
+rakkaudelle perustamisen suhteen, mutta mitkään niistä eivät ole
+olleet menestyksellisiä. Positiivisuus eli sen uskonnollinen puoli
+on aina epäonnistunut. Se on kiinnittänyt itseensä ainoastaan pieniä
+ihmisryhmiä, joista muutamat ovat omanneet suuria kykyjä ja saaneet
+aikaan paljon, mutta uskonto sen sanan positiivisessa merkityksessä
+tunnustetaan epäonnistuneeksi yksin sen vilpittömimpien ihailijain
+taholta. Veljeyskirkkoja, ihmisyyskirkkoja, kansan kirkkoja ja muita
+sellaisia järjestöjä on muodostettu samanlaisille inhimillisyys
+periaatteille, jotka ovat selittäneet kehittävänsä mahdollisimman
+paljon rakkautta ja mahdollisimman vähän uskoa, mutta ne ovat
+epäonnistuneet vaikuttamaan tavallisiin miehiin ja naisiin. Teosofia,
+orientaalisen (Itämaisen) mystillisyyden järjestelmä perustuen ihmisten
+veljeyskäsitteelle, on myöskin vaatinut itselleen tunnustusta, sillä
+perusteella, että sillä on laaja humanitaarinen pohja. Yksikään
+näistä humanitaarisista uskonnoista ei kuitenkaan näytä tyydyttävän
+ajan vaatimuksia, joka ei näytä haluavan mitään humaniteettisia
+opetuksia. Ainoat uskonnot, jotka ovat säilyneet, ovat niitä jotka
+ovat dogmaattisia ja perustuvat sokealle uskolle, mutta nämäkään eivät
+kykene saamaan proletaarisia kannattajia.
+
+Engelsin muistutukset näyttävät enempi kuin pitävän paikkansa tämän
+päivän tosiasiain valossa, sillä proletariaatti on muodostamassa
+omaa uskontoaan, joka edustaa sen aatteellista kaipuuta, mutta
+proletariaatti näyttää olevan sangen halukas irtautumaan kaikista
+uskonnon haaveista, olkoonpa ne mitä laatua hyvänsä ja asettavan
+sen sijaan käytännöllisen siveysopin ja tieteiden opetuksen. Niinpä
+tiedetään että viisi kuudesta Berliinin työväenluokkalaisesta, jotka
+käyvät sunnuntaikokouksissa, ovat sosialistisilla luennoilla.
+
+Feuerbachin filosofian vallankumouksellisuus ei esiinny hänen
+siveysopissaan, jonka Engels hyvällä syyllä julistaa olevan yhtä
+huonon kuin hänen edeltäjäinsä, koska se pohja jolle se rakentuu ei
+ole ensinkään todellisempi. Feuerbach on epäonnistunut käytännöllisen
+siveysopin opettajana; hän harhailee asbtraktisissa asioissa eikä
+kykene näkemään todellisuutta.
+
+Viimeisessä osassa teostaan Engels jättää Feuerbachin kritiseerauksen
+ja esittää omaa filosofiaansa.
+
+Ehdottomalla avonaisuudella ja vaatimattomuudella hän antaa
+tunnustuksen Marxille materialistisen historian käsityksen teoriasta,
+jonka selostamiseksi ja todistamiseksi hän itse on työskennellyt
+taukoamatta aina siitä asti kuin tämä teoria alkoi heille kummallekin
+hämärtää, noin neljäkymmentä vuotta ennen tämän teoksensa
+kirjoittamista. Toisessa kohden oleva reunamuistutus on todistus
+työtoverin ylevämielisyydestä kanssatyöskentelijäänsä kohtaan, ollen
+se esimerkki vaatimattomuudesta ja itsensä tunnustamattomuudesta,
+jota harvoin näkee ja jota ei tapahdu usein kirjallisuuden alalla
+yhdessätyöskentelijäin taholta. Mikään ei voi antaa ylevämpää
+todistusta näiden kahden maanpakolaisen luonteen jaloudesta ja
+tarkoitusten vilpittömyydestä.
+
+Engels selittää marxilaisen historian filosofian niin selvästi ja
+täydellisesti, ettei siihen ole syytä enään kajota, ainoastaan on
+syytä kiinnittää jossain määrin huomiota nykyajan kehityksen valossa
+joidenkin määritelmien tarkkuuteen taloudellisten tekijäin laajan
+teorian Hiotteluun lujaan ja ankaraan taloudelliseen determinismiin
+nähden.
+
+Tarkastettuamme Engelsin väitteitä materialismin puolesta, huomaamme
+me, etteivät ne ole luonteeltaan sellaisia, että ne aiheuttaisivat
+mitään äärimmäisiä johtopäätöksiä aikaansa seuraavien sosialististen
+julkisuusmiesten tai johtajain taholta. On muistettava että
+taloudellisten olosuhteiden vaikutusta uskonnollisiin ja poliittisiin
+ilmiöihin on viimeisinä vuosina visusti tutkittu ja jatkuvasti saadut
+kootut todistukset osoittavat kuinka merkillisen suuri vaikutus
+taloudellisilla tekijöillä on kaikkiin yhteiskunnallisen elämän
+ilmiöihin. Voi olla mahdollista, että menestykselliset tutkimukset
+tällä uudella alalla ovat väliaikaisesti johtaneet muodostamaan
+liioittelevia ajatuksia taloudellisten tekijöiden todellisesta
+vaikutuksesta.
+
+Marx, eräässä lyhyessä kritikoivassa arvostelussaan Feuerbach'sta,
+lausuu: "Se materialistinen oppi — jonka mukaan ihminen on vissien
+olosuhteiden ja vissin kasvatuksen tulos, ja niinmuodoin toisenlainen
+ihminen erilaisten olosuhteiden ja kasvatuksen tuote — unohtaa
+että ihminen voi muuttaa olosuhteet ja että kasvattajakin voidaan
+kasvattaa." Toisin sanoen, tämä probleemi, samoin kuin kaikki
+probleemit, sisältää itsessään vähintään kaksi laatua; se ei ole
+yksinomaan kysymys olosuhteista, taloudellisista tai muista; se on
+kysymys ihmisestä ja olosuhteista, sillä ihmistä ei voida milloinkaan
+erottaa olosuhteista, hän on vain olemassa eri oliona, ja nämä kaksi
+elementtiä, ihminen ja olosuhteet, vaikuttavat ja vastavaikuttavat
+toisiinsa.
+
+Tämä kanta eroaa kokonaan siitä kannasta minkä Lafargue [Marxin
+vävy] ottaa taistellessaan Jauresia vastaan. Lafargue väittää
+että taloudellinen kehitys on ainoa kehityksen määräävä tekijä,
+täten hän asettuu täydellisesti ekonomisen determinismin kannalle,
+tehden historian, ja siis myöskin vallitsevat inhimilliset motiivit
+mitättömiksi, pannen kaiken riippuvaksi tästä yhdestä tekijästä.
+Belfort Bax, tunnettu englantilainen sosialistinen kirjailija, tuo
+esiin useita sangen selviä todisteita taloudellisen determinismin
+kantaa vastaan, verraten sitä esi-sokrateslaisten kreikkalaisten
+filosofien kantaan, jotka pyrkivät kaiken luonnon sisällyttämään yhteen
+elementtiin. Hänen muistutuksensa on niin sattuva, että lainaamme siitä
+erään kohdan tässä hänen omia sanojaan käyttäen. Hän lausuu teoksessaan
+"Outlooks from a New Standpoint" [Katsauksia uudelta näkökannalta.
+Suom. muistutus.].
+
+"Pyrkimys supistaa koko inhimillinen elämä yhteen ainoaan elementtiin,
+uudelleenrakentaa historia taloustieteen pohjalle, jättää
+huomioonottamatta sen tosiasian, että jokaisella konkreettisella
+todellisuudella täytyy olla aineellinen ja muodollinen puolensa — se
+on, että siinä täytyy olla vähintään kaksi läheistä elementtiä — kaikki
+todellisuus abstraktisuuden vastustajana, käsittää synteesin [synteesi
+— yhdistelmä]. Yritys löytää inhimillisen elämän moninaisuudesta
+vain yksi tekijä, kuinka tärkeä se tekijä lieneekin, muistuttaa
+esi-sokratelaisten kreikkalaisten pyrkimyksiä supistaa luonto yhteen
+elementtiin, sellaiseen kuten vesi, ilma, tuli, j.n.e."
+
+Ja edelleen: "Jonkun liikkeen muoto, olkoon se intellektuaalinen,
+siveysopillinen tai taiteellinen, on yhteiskunnan aineellisten
+olosuhteiden määräämä; näiltä olosuhteilta se saa muotonsa ja tyylinsä,
+mutta jokainen tällainen liike on myöskin niiden psykologisten
+ilmiöiden määrittelyn alainen, jotka ovat antaneet sille synnyn."
+
+Enrico Ferri, kuuluisa Italian edustajakamarin jäsen ja rikostieteen
+tutkija, näyttää hyväksyvän Baxin kannan tässä kysymyksessä. Hän
+lausuu teoksessaan "Sosialismi ja uudenajan tiede" [ilmestynyt
+suomeksikin]: "On täysin totta, että jokainen ilmiö, samoin kuin
+jokainen moraalinen, juridinen tai poliittinen laitoskin — on
+yksinkertaisesti taloudellisten tekijöitten ja niiden siirtymiskausien,
+fyysisten ja historiallisten ympäristöjen tulos. Mutta luonnollisen
+syysuhteellisuuden lain perusteella, joka opettaa meille, että jokainen
+tekijä on aina monien yhteenliittyvien syitten seuraus, eikä ainoastaan
+yhden syyn seuraus, ja että jokainen tekijä vuorostaan kääntyy syyksi
+toiselle ilmiölle, on välttämätöntä lisätä ja täydentää se liian
+kiinteä muoto, mikä on annettu tälle tosiasialle.
+
+"Samalla tavalla kuin yksilön kaikki ruumiilliset piirteet ovat
+tuloksia hänen orgaanisista tekijöistä (temperamentista) ja siitä
+ympäristöstä missä hän elää, samalla kaikki kansan yhteiskunnalliset
+piirteet ovat tuloksia (rodun) orgaanisista olosuhteista ja
+ympäristöstä, sillä ne ovat määrääviä tekijöitä vissille
+talousjärjestelmälle, joka on elämän aineellinen peruste."
+
+Näitä esitettyjä ajatuksia voidaan pitää rehellisinä edustavina
+näkökantoina äärimmäistä taloudellista determinismiä vastaan.
+
+Tämä väittely on levinnyt laajalle ja sisältää paljon lukemista.
+
+Joitakin tämän väittelyn kokonaistuloksia on äskettäin summannut
+professori Seligman teoksessaan "Economic Interpretation of History"
+[Historian taloudellinen tulkinta. — Suom. muistutus.]. Hänen
+kirjoittamastaan näkökannasta osoittautui läheisempi sosialistisen
+filosofian oppien ymmärtäminen kuin mitä me olemme yleensä tottuneet
+saamaan näiltä virallisilta tiedemiehiltä, niin että näyttää kuin
+Marxin työ alkaisi saada arvon yksin professorien sumuisissa
+tutkimuksissaan. Professori Seligman lainaa m.m. kaksi kohtaa Engelsin
+teoksista. Näillä lainauksissa nähtävästikin pyritään todistamaan ettei
+Engels suinkaan pyrkinyt tulkitsemaan tätä teoriaa äärimmäisesti,
+kuten sitä on tehty, ja ettei Engels hyväksy yleensä tätä äärimmäistä
+tulkintatapaa.
+
+Lainattakoon tässä nämä Engelsin lausunnot, tehdäksemme selväksi hänen
+näkökantansa ja helpottaaksemme sitä selostusta, mitä Engels käsittelee
+tämän kirjan loppuosassa.
+
+Nämä lainaukset muodostavat osan siitä artikkelisarjasta, minkä Engels
+kirjoitti "Sosialistiselle Akademiker" aikakauslehdelle 1890, ja ovat
+seuraavat:
+
+"Marx ja minä olemme osittain syyllisiä siihen, että nuoremmat miehet
+ovat joskus antaneet enempi painoa taloudelliselle puolelle kuin mitä
+se ansaitsisi. Kumotaksemme vihollistemme hyökkäyksiä oli meille
+välttämätöntä painostaa sitä määräävää tekijää jonka he kielsivät, eikä
+meillä ollut aina aika, paikka tai tilaisuus sopiva, tuoda esiin niitä
+muita tekijöitä, jotka ovat tärkeitä tekijöitä ja vastatekijoitä."
+
+Toisessa kirjoituksessa samassa aikakauslehdessä hän lausuu:
+
+"Materialistisen historian käsityksen mukaan, tekijä, joka on
+viimekädessä määräävä tekijä historiassa, on tuotanto ja elämän
+uudestaanluominen. Tämän enempää ei Marx enkä minä ole milloinkaan
+sanonut. Mutta jos kuka hyvänsä tahtoo tulkita tätä määritelmää siten,
+että taloudellinen tekijä on ainoa elementti, hän vääristelee tämän
+selityksen tarkoituksettomaksi, abstraktiseksi, tyhmäksi fraasiksi.
+Taloudellinen elämä on peruste, mutta ylärakenteen moninaiset elementit
+— luokkaristiriitain poliittiset muodot ja niiden seuraukset,
+perustuslait — lailliset muodot, kuin myöskin kaikki heijastukset
+näihin käytännöllisiin taisteluihin osanottajien aivoista, poliittiset,
+lailliset, filosofiset teoriat, uskonnolliset näkökannat — kaikki nämä
+työntävät vaikutuksensa historiallisten taistelujen kehitykseen ja
+monissa tapauksissa määräävät niiden muodon."
+
+Nyt me voimmekin jo hyvällä syyllä jättää tämän paljon riidellyn
+kysymyksen, koska pitempi käsittely väittelynalaisista kysymyksistä
+olisi ulkopuolella asian. Kysymys onkin itseasiassa sisällöltään
+pelkästi skolastinen, sillä tuskinpa yksin äärimmäisinkään deterministi
+tahtoo olettaa, että proletaarisen liikkeen puhujien ja sanomalehtien
+olisi pidettävä tiukasti kiinni yksinomaan taloudellisista
+väittelyistä. Mutta jos kuka hyvänsä tahtoo tutkia kysymystä laajemmin,
+hän voi löytää siihen riittävästi aineistoa nyt jo suuresta ja alati
+kasvavasta tätä asiaa käsittelevästä kirjallisuudesta.
+
+Ei ole suinkaan mitään epäilystä siitä, etteikö Marxin aatteet,
+jotka perustuvat historiallisen kehityksen pohjalle, ole nyt jo
+vallankumouksellisentaneet historian opetusta yliopistoissa,
+vaikkakin ainoastaan muutamat professorit ovat olleet kyllin
+rehellisiä antaakseen hänelle krediittiä siitä. Taloudelliset tekijät
+saavuttavat yhä tärkeämmän sijan historian tutkijain silmissä, mutta
+todellinen tämän tosiasian keksijä yhä syrjäytetään ja hänen työnsä
+tuloksia halveksitaan itsekkäisellä tekopyhyydellä, joka on eritoten
+luonteenomaista englanninkieltä puhuvien maiden opistoille.
+
+Porvarilliset kirjoittajat käsitellessään sosialismia yleensä
+suvaitsevat mainita yksinkertaisesti, että Marx käytti dialektista
+menettelytapaa tutkimuksissaan ja selostuksissaan. Tämä on hyvin paljon
+kreikkaa tavalliselle lukijalle ja dialektiikan selostaminen sellaisena
+kuin sitä käyttävät sosialistiset kirjoittajat, vaatii jonkin verran
+selostusta.
+
+Ensimmäinen osa tätä teosta onkin juuri suurmerkityksellinen siinä
+suhteessa, että siinä osoitetaan mitä Marx ja Engels tarkoittivat
+käyttäessään tätä termiä, ja selostaessaan arvostelunsa tästä
+metoodista, verrattuna siihen millaisena sitä yleensä käytettiin heidän
+päivinään, ja aina, ennen heidän aikaansa, oli käytetty filosofiassa,
+historiassa ja taloustieteessä.
+
+Vieläkin täydellisemmän ja yksityiskohtaisemman määritelmän
+dialektiikasta antaa Engels, sellaisena kuin hän käyttää sitä
+kuuluisassa teoksessaan, jonka hän kirjoitti Eugen Dühringille, joka
+teos on nimeltään "Umwälzung der Wissenschaft" [Englanninkielellä
+"Anti-Dühring", josta tulisi suomeksi "Dühringi-vastainen". — Suom.
+muistutus.]. Tässä teoksessa tehdään vieläkin perinpohjaisempi ja
+kärsivällinen tutkimus sosialistisen liikkeen materialistiseen
+filosofiaan, sillä hänen vastustukseen näyttää vaikuttaneen ikäänkuin
+kiihottimena Engelsin luonnonlahjoihin, jotka eivät varmaankaan
+milloinkaan muulloin ole osoittaneet parempaa lahjakkuutta kuin
+tässä teoksessa. Osa näistä väitelmistä on itseasiassa vain yleisen
+ajattelukyvyn abstraktinen harjoitus, josta on jätetty pois väittelyn
+syvimmät kohdat, on painettu nimellä "Sosialismin kehitys haaveesta
+tieteeksi" (Ilmestynyt suomeksikin). Lainattakoon siitä tähän seuraavat
+kohdat, jotka on julaistu "kansalle" v. 1892:
+
+"Me myöskin huomaamme tutkiessamme, että kaksi sellaista vastakkaista
+napaa, kuten positiivinen ja negatiivinen, ovat yhtä erottamattomia
+kuin ne ovat vastakkaisiakin toisilleen, ja huolimatta niiden
+vastakohtaisuudesta, ne yhteisesti tuntevat vetovoimaa toisiinsa;
+ja samalla tavalla me löydämme syyn ja seurauksen käsitteet, joiden
+voimat ovat olemassa ainoastaan silloin kun ne sovitetaan johonkin
+yksityistapaukseen, mutta jotka, niin pian kuin me käsittelemme tätä
+tapausta maailmankaikkeuden kanssa, liittyvät toinen toisiinsa ja
+katoavat tämän kaikkeuden toiminnan ja vastatoiminnan yhteydessä, missä
+syy ja seuraus jatkuvasti vaihtavat paikkoja — se mikä on seuraus nyt
+ja tässä, muuttuu silloin ja tuolla syyksi ja päinvastoin.
+
+"Ei yksikään näistä ajattelumetodeista sovellu metafyysillisen
+filosofian ajatusmeininkiin. Dialektiikoille sen sijaan, jotka
+ottavat tutkimuksensa kohteissa ja mielikuvituksissaan ennen kaikkea
+kaikki niiden yhteydet, järjestyksen, liikunnan, nousun ja laskun,
+on edellämainitut kehitysvaiheet yhtä monta todistajaa heidän
+metoodinsa edistymisessä. Luonto valmistaa todistuksia dialektiikalle,
+ja meidän täytyy tunnustaa, että uuden ajan tiede on lahjoittanut
+runsaasti ja päivittäin kasvavan määrän aineistoa, jonka kautta on
+tullut todistettua, että viimekädessä luonto kulkee dialektista eikä
+metafyysillistä metodia noudattaen, että se ei kulje jatkuvasti samaa
+rataa, vaan kulkee todellisen historiallisen kehityksen tietä."
+
+Kirkup teoksessaan "Sosialismin historia", lausuu Marxin käyttämästä
+dialektisesta tutkimusmetodeista seuraavaa: "Marxin järjestelmässä
+merkitsee dialektiikka sitä, että tämän tutkimuksen kautta
+on löydettävä jokaisen renkaan yhteys toinen toisensa kanssa
+historiallisen kehityksen prosessissa, Marxin järjestelmä tutkii
+miten yhteiskunnallisessa kehityksessä toinen aste seuraa toista,
+se osoittaa etteivät tapahtumat eikä muodot inhimillisessä elämässä
+ja historiassa ole paikallaan pysyviä, vaan alituisesti muuttuvia
+ilmauksia liikkuvasta ja rauhattomasta todellisuudesta, jonka eteenpäin
+vaelluksen tieteen velvollisuus on paljastaa."
+
+_Austin Lewis_.
+
+
+
+
+TEKIJÄN JOHDANTO.
+
+
+Teoksessa "Critique of Political Economy" (Poliittisen taloustieteen
+arvostelua), julkaistu Berliinissä 1859, Marx selosti miten me
+kaksi, 1845 Brysselissä, aijoimme työskennellä yhdessä näkökantaimme
+selostamiseksi — se on, selostaa historian materialistinen
+filosofia sellaisena kuin sen on Marx kehittänyt, vastakohtana
+Saksan ideologiselle filosofialle, ja verrata sitä meidän nykyiseen
+filosofiseen tietoisuuteemme. Tämä suunnitelma toteutettiin
+alkuperäisen hegeliläisen filosofian kritiikillä. Käsikirjoitus,
+käsittäen kaksi suurta kirjaa, odotti kauan Westphaliassa, jossa
+se piti kustannettaman, kunnes me lopulta saimme tiedon, että
+muuttuneitten olosuhteitten takia ei sitä voidakaan kustantaa. Me
+lykkäsimme käsikirjoituksen julkaisemisen epämääräiseen aikaan, sitäkin
+mieluummin, koska me olimme saavuttaneet päätarkoituksemme, nimittäin
+tulleet ymmärtämään asemamme.
+
+Tästä ajasta on kulunut yli neljäkymmentä vuotta, ja Marx on kuollut,
+ilman että meillä kummallakaan olisi ollut tilaisuutta ottaa jälleen
+esille näitä vastakohtia. Mitä tulee meidän suhteeseemme Hegeliin,
+olemme me sen selostaneet silloin tällöin tarpeen mukaan, mutta ei
+milloinkaan kokonaisuudessaan. Me emme ole myöskään milloinkaan
+käsitelleet Feuerbachin filosofiaa, joka muodostaa väliasteen Hegelin
+ja meidän filosofiamme välillä.
+
+Samalla aikaa on kuitenkin Marxin filosofia löytänyt ihailijoita
+Saksan ja Euroopankin rajojen ulkopuolella, ja yleensä kaikkia
+maailman sivistyskieliä puhuvien keskuudessa. Toiseltapuolen klassinen
+saksalainen filosofia on uudestisyntynyt ulkomailla, eritoten
+Englannissa ja Skandinavian maissa, ja yksin Saksassakin siihen
+näyttää sekoittuneen jotain uutuuden viehätystä, joka sitten pulppuaa
+yliopistoista filosofian nimellä.
+
+Nämä olosuhteet ja seikat huomioon ottaen, lyhyt, eheä selostus
+meidän suhteestamme hegeliläiseen filosofiaan, meidän etenemisemme
+ja poikkeamisemme siitä, näyttää minusta enempi ja enempi tarpeen
+vaatimalta. Ja samanlainen selostus Feuerbachin filosofiasta, joka
+enempi kuin kukaan Hegelin jälkeläisistä filosofeista, sai meidät
+valtaansa meidän nuoruuden innostuksemme aikana, mutta joka nyt
+esiintyy minulle sietämättömänä kunniavelkana. Minä myöskin käytän
+tilaisuutta hyväkseni sitäkin suuremmalla syyllä, koska "Neue Zeitin"
+[Saksassa siihen aikaan hyvin tunnettu sosialistinen aikakauslehti,
+jonka toimittajana Karl Kautsky oli kauan aikaa. — Suom. muistutus.]
+toimittaja on pyytänyt minun kritiseeraamaan Starcken teosta
+Feuerbachista. Minun kritiikkini julkaistiin edellämainitun julkaisun
+1886 vuoden numeroissa, joka nyt ilmestyy tämän teoksen muodossa
+tarkistettuna.
+
+Ennen kuin lähetin tämän käsikirjoituksen painoon, minä etsin käsiini
+ja tarkastin vanhan käsikirjoitukseni, vuosilta 1845—6. Se osa siitä,
+mikä koskettaa Feuerbachia ei ollut täydellinen. Se osa mikä oli
+valmis, käsitteli historian materialistisen katsantokannan selostuksen,
+ja se on omiaan osoittamaan kuinka epätäydellinen meidän tietoisuutemme
+siihen aikaan oli taloudellisesta historiasta. Siinä ei kritiseerata
+Feuerbachin teoriaa. Näin ollen se ei täyttänyt tarkoitustaan.
+Toiseltapuolen minä olen löytänyt Marxin vanhojen käsikirjoitusten
+joukosta yksitoista kohtaa, joissa käsitellään Feuerbachin filosofiaa,
+jotka julaistaan tämän teoksen lopussa lisäyksenä. Nämä ovat vain
+hätäisiä muistiinpanoja, jotka eivät ole aiottu julkaisemista varten,
+mutta ne ovat silti sangen arvokkaita, koska ne käsittävät uuden
+filosofian siemeniä.
+
+_Friedrich Engels_.
+
+Lontoossa, helmikuun 21 p., 1888.
+
+
+
+
+FEUERBACH.
+
+
+
+I.
+
+
+Käsittelymme alaisena oleva teos siirtää meidät aikaan, joka on
+miespolven takanamme, mutta joka on yhtä vieras Saksan nykyiselle
+polvelle kuin jos siitä olisi kulunut vuosisata. Ja kuitenkin se oli
+Saksan 1848 vuoden vallankumoukseen valmistumisaika, ja kaikki mitä on
+tapahtunut meille sitten on ainoastaan 1848 aikakauden jatkumista, se
+on vallankumouksen testamentin viimeisen tahdon täyttämistä.
+
+Juuri samalla tavalla kuten Ranskassa kahdeksannellatoista
+vuosisadalla, samoin Saksassa yhdeksännellätoista vuosisadalla,
+pyrkii vallankumouksellisen filosofian käsitteet murskaamaan
+olevat poliittiset laitokset. Mutta kuinka suuresti eroavana nämä
+kaksi ilmeneekään! Ranskassa jouduttiin avonaiseen taisteluun
+kaikkien tunnustettujen tieteiden, kirkon ja valtion kanssa,
+vallankumouksellisten kirjoitukset julkaistiin maan rajojen
+ulkopuolella Hollannissa tai Englannissa, ja vallankumoukselliset
+itse usein joutuivat Bastiljin vankilaan. Saksalaiset päinvastoin
+olivat professoreja, valtion nimittämiä nuorison opettajia; heidän
+kirjoituksensa, tunnustetut oppikirjansa ja heidän määrätty
+järjestelmänsä maailmankaikkeudellisesta kehityksestä — hegeliläisyys
+— nousi ja sai tunnustuksen kuin jos se olisi ollut preussilaisen
+hallituksen rojaalinen filosofia. Ja voiko vallankumous kätkeä itsensä
+näiden professorien vaikeasti tajuttavien pedagogisten opetuksien ja
+heidän väsyttävän pitkämielisyytensä taakse? Eivätkö juuri ne henkilöt,
+joita pidettiin vallankumouksen johtajina, vapaamielisinä, olleet
+ajatuksia muuntavan filosofian katkerimpia vihollisia? Mutta se mitä
+eivät hallitusherrat eikä vapaamieliset kyenneet näkemään, sen näki
+ainakin yksi mies, ja tämä mies oli Heinrich Heine.
+
+Ottakaamme esimerkki. Ei mikään filosofien lausunto ole siinä määrin
+aiheuttanut kiitoksia ahdasmielisten hallitusten taholta ja toiselta
+puolen kiukkua yhtä ahdasmielisten vapaamielisten taholta kuin Hegelin
+kuuluisa lausunto: "Kaikki mikä on todellista on järjellistä ja kaikki
+mikä on järjellistä on todellista".
+
+Tämä oli ehdottomasti kaiken olemassaolevan siunaamista, se
+oli filosofinen siunaus despotismille, poliisihallitukselle,
+luokkaoikeudelle ja sensuurille. Niinpä Friedrich Wilhelm III ja hänen
+alamaisensa varsin hyvin ymmärsivätkin sen; mutta, Hegelin mukaan, ei
+sentään kaikki ilman poikkeusta, mitä oli olemassa, ollut todellista.
+Nimitys todellisuus kuuluu vain sille mikä on samalla välttämätön.
+Joku hallituksellinen säädös tai toimenpide — Hegel itse mainitsee
+esimerkkinä vissinlaisen "verotuslain" — ei hänen mielestään ole
+todellinen, jos siltä puuttuu muita kelpoisuusehtoja. Mutta mikä on
+välttämätön, on loppukädessä myöskin todellinen, ja sovellutettuna
+preussilaiseen hallitukseen, Hegelin oppi, niinmuodoin ainoastaan
+merkitsee, että se on järjellinen niin kauan kuin se on välttämätön,
+ja jos se näyttää meistä sietämättömältä, mutta siitä huolimatta
+sen olemassaolo yhä jatkuu, niin hallituksen varjopuolet löytävät
+oikeutensa selityksellä, että se johtuu sen alamaisten varjopuolista.
+Preussilaisilla niinmuodoin oli siihen aikaan sellainen hallitus kuin
+ansaitsivatkin.
+
+Mutta todellisuus ei ollut Hegelin mukaan suinkaan ominaisuus,
+joka olisi kuulunut vissille poliittiselle tai yhteiskunnalliselle
+olotilalle kaikissa tapauksissa ja kaikkina aikoina. Päinvastoin.
+Rooman tasavalta oli todellinen, mutta Rooman keisarikunta, joka
+otti sen paikan, oli myöskin todellinen. Ranskan monarkia taas oli
+tullut epätodelliseksi v. 1789, se on, se oli menettänyt kaiken
+tarpeellisuutensa ja oli niin ollen kaikkea järjellisyyttä vastaan
+siinä määrin, että se murskasi itsensä Suuressa Vallankumouksessa,
+josta Hegel aina puhuu suurella innostuksella. Tässä siis, monarkia oli
+epätodellinen ja vallankumous todellinen. Niinpä kehityksen kulussa
+kaikki aikaisempi todellisuus tulee epätodellisuudeksi, menettämällä
+välttämättömyytensä, järjellisyytensä; kuolevan todellisuuden sijalle
+tulee elinvoimainen uusi todellisuus, se tulee rauhallisesti silloin
+jos vanha on kylliksi järkevä astuakseen kuolemaan ilman taistelua,
+mutta väkivaltaisesti silloin kun se on pakotettu taistelemaan tätä
+välttämättömyyttä vastaan. Näin hegeliläinen selitys hegeliläisen
+dialektiikan kautta kääntyy itsensä vastaiseksi — kaikki se mikä on
+todellista inhimillisen historian kehityksessä, käy ajan vaihteissa
+epäjärjelliseksi ja on niinmuodoin pyrkimykseltään järjetön, ja on
+heti alkujaan perinyt viisauden puutteen, kun taas kaikki se, mikä on
+järjellistä ihmisten mielissä, on tuleva todelliseksi, kuinka suuressa
+määrin hyvänsä se mahdollisesti onkin vastakkainen vallitseville
+olosuhteille. Väite kaiken todellisen järkiperäisyydestä kumoaa itse
+itsensä, hegeliläisen ajatustavan mukaan hänen toisessa väitteessään
+"Kaikki mikä kykenee seisomaan, on ainoastaan siinä määrin arvokas,
+että sen täytyy luhistua".
+
+Mutta juuri tässä lepääkin hegeliläisen filosofian merkitys ja sen
+vallankumouksellinen luonne (johon meidän täytyy tässä kiinnittää
+huomiomme, koska siihen päättyy sitten Kantin saavutettu edistys),
+sillä siinä kerta kaikkiaan annetaan siunaus inhimillisen järjen
+ja toiminnan tuloksille. Totuus, jonka tunnustaminen on filosofian
+tehtävä, ei enään ole valmiiksi kerätty väitössarja, jonka kerran joku
+viisas oppinut on löytänyt; totuus on nyt löydettävissä tietoisuuden
+itsensä kehityksessä, pitkän historiallisen kehityksen oppineisuudessa,
+joka kiipeää alhaalta aina yhäti ylempiä korkeuksia kohti, milloinkaan
+saavuttamatta n.k. absoluuttisen totuuden huippukohtaa, josta se ei
+voisi edetä edemmäksi, josta se ei voisi enään katsoa eteenpäin,
+paitsi ainoastaan ristiä kätensä rinnoilleen ja ihmetellä sitä
+absoluuttista totuutta mikä on jo saavutettu. Ja juuri samalla tavalla
+kuin on laita filosofian huippukohdan saavuttamisen kanssa, sama
+pitää paikkansa kaikkeen muuhunkin tietoisuuteen nähden, yksinpä
+käytännöllisen liike-elämänkin tietojen suhteen. Ja juuri yhtä vähän
+kuin tietoisuus, voi historiakaan löytää ihanteellista inhimillisyyden
+olotilaa, täydellistä yhteiskuntaa, täydellistä valtiota; nämä ovat
+seikkoja, jotka voivat olla olemassa ainoastaan mielikuvituksissa;
+päinvastoin kaikki toisiaan seuraavat historialliset olosuhteet ovat
+ainoastaan korpivaellusta inhimillisen yhteiskunnan loppumattomassa
+kehityksellisessä prosessissa, joka pyrkii alhaalta yhä ylhäisempiin
+muotoihin. Jokainen askel on välttämätön ja hyödyllinen aikanaan ja
+niissä olosuhteissa joista ne saavat alkunsa, mutta nämä askeleet
+tulevat heikoiksi ja epäoikeudellisiksi uusissa ja korkeimmissa
+olosuhteissa, jotka kehittyvät vähitellen kunkin aikakauden omassa
+kohdassa; vanhojen olosuhteiden ja muotojen täytyy väistyä uusien
+korkeimpien muotojen tieltä, jotka taas vuorostaan rappeutuvat ja
+häviävät. Samoin kuin porvaristo suuremman teollisuuden, kilpailun
+ja mailman markkinain valtaamisen kautta murskasi kauan seisoneet
+ja suuresti kunnioitetut vanhat laitokset, samoin tämä dialektinen
+filosofia murskasi kaikki teoriat absoluuttisesta totuudesta ja sen
+kanssa sopusointuisasta absoluuttisesta inhimillisyydestä. Näin
+ollen ei mitään lopullista, absoluuttista tai pyhää ole olemassa,
+kaikki kätkee itseensä säälimättömän kuolevaisuuden, eikä mikään voi
+säilyä olemassaolossa sen edessä, paitsi taukoamaton olemassaoloon
+tulemis- ja katoamiskehitys, herkeämätön siirtyminen alhaisemmista
+muodoista korkeimpiin, josta ajattelijan aivostokin on vain pelkkä
+heijastus. Totuudella on kuitenkin vanhoillinen puolensakin, se ottaa
+huomioon tietoisuuden ja yhteiskunnan soveltuvaisuuden visseissä
+olosuhteissa aikaan ja oloihin nähden, mutta ainoastaan tässä mielessä
+se on vanhoillinen. Tämä filosofisen näkökannan vanhoillisuus
+on suhteellinen, kun taas sen vallankumouksellinen luonne on
+absoluuttinen, ainoa absoluuttinen jonka olemassaolon se sallii.
+
+Meidän ei tässä kohdin tarvitse asettaa kyseenalaiseksi onko tämä
+filosofia läpeensä yhtäpitävä sen luonnollisen tieteen nykyiseen
+asemaan nähden, joka ennustaa maapallon ja sen asujaimiston häviämistä,
+joka on ilmeisen varma asia; joka niinmuodoin ottaa huomioon myöskin
+sen tosiasian, että inhimillisessä historiassa on ei ainoastaan kasvava
+ja elävä osa, vaan myöskin häviävä osa. Me olemme kuitenkin vielä
+huomattavan kaukana käännekohdasta, missä yhteiskunnan historia alkaa
+laskukautensa, joten emme voi odottaakaan, että hegeliläinen filosofia
+takertuisi kysymykseen, jota ei tiede vielä silloin ollut asettanut
+päiväjärjestykseen.
+
+Mutta mitä meidän on muistettava tästä seikasta, on, ettei
+hegeliläinen kehitys Hegelin mukaan osoita itseään kyllin selvänä.
+Se johtuu välttämättömästi siitä, ettei hän milloinkaan ottanut
+tutkimusmetodissaan huomioon tätä perinpohjaisuutta. Ja tästä
+yksinkertaisesta syystä, koska hän oli pakotettu kehittämään
+järjestelmän, ja filosofisen järjestelmän tulee, kaikkien sille
+asetettujen vaatimusten mukaisesti päättyä jossain absoluuttisen
+totuuden määritelmällä. Niinpä Hegel, logiikassaan väitti, ettei
+tämä absoluuttinen totuus ole mikään muu kuin loogillinen, se on,
+historiallinen kehitys itse; tästä huolimatta hän pakottaa itsensä
+asettamaan rajan tälle kehitykselle, koska hänen täytyy päästä
+loppupäätökseen järjestelmäänsä nähden tavalla tai toisella. Hän
+saavuttaa tämän lopun alkamalla jälleen logiikasta, ja näin hän
+tekee johtopäätöksen — absoluuttinen aate, joka on absoluuttinen
+ainoastaan vissillä tavalla, sillä hän ei voi sanoa siitä mitään
+selventävää — ilmaisee itsensä luonnossa, se on, tulee muuntuneeksi, ja
+myöhemmin hengessä, se on, ajatuksissa ja historiassa, tulee jälleen
+omaksi itsekseen. Mutta lopullisessa filosofisessa analyysissa,
+alkuperäisyyteen palaaminen on mahdollinen ainoastaan yhdellä tavalla,
+nimittäin jos joku asettaa lopun historialle sen seikan perusteella,
+että ihmiskunta kykenee pääsemään tietoisuuteen absoluuttisesta
+totuudesta, ja selittää että tämä absoluuttinen aate on löydettävissä
+hegeliläisestä filosofiasta. Mutta tällä koko hegeliläisen filosofian
+dogmaattinen sisältö absoluuttiseen totuuteen nähden tulisi selitetyksi
+vastakkaisesti hänen dialektiikalleen, täten päästettäisiin
+valloilleen kaikki dogmaattiset menetelmät ja vallankumouksellinen
+puoli joutuisi vanhoillisen savun peittoon. Ja se mitä voidaan sanoa
+filosofisesta tietoisuudesta, voidaan myöskin sanoa historiallisesta
+kokemuksesta. Ihmiskunta, se on, Hegelin persoonassa, on saapunut
+absoluuttisen aatteen löytämiskohtaan, jolloin sen on myöskin täytynyt
+käytännöllisesti päästä niin pitkälle, että voi julistaa absoluuttisen
+aatteen todellisuudeksi. Hänen aikalaisensa eivät voineet kiristää
+tämän abstraktisen aatteen poliittisia vaatimuksia liian pitkälle.
+Ja niinpä me Oikeuksien Filosofian johtopäätöksenä huomaamme, että
+absoluuttisen aatteen tulee toteutua rajoitetussa monarkiassa,
+jota William III niin vakuuttavasti, mutta petollisesti lupasi
+alamaisilleen; siis rajoitetussa, siedettävässä, omistavien luokkien
+epäsuorassa hallinnassa, joka soveltuu Saksan pikkuporvaristolle,
+jonka rinnalla aateliston olemassaolon säilyttäminen keinotekoisine
+muotoineen oli välttämätön.
+
+Tämän järjestelmän ehdoton käytännöllisyys on riittävä selittämään
+kuinka vallankumouksellista ajattelutapaa käyttäen voitiin muodostaa
+näinkin kehno johtopäätös. Tähän johtopäätökseen erikoisena
+aiheuttajana oli se, että Hegel oli saksalainen, ja kuten hänen
+aikalaisensa Goethe'kin, hän oli jonkin verran filistealainen
+(Filistealainen — muinaisen Filistean asukas. Filosofiassa tarkoitetaan
+filistealaisella "olla liiaksi käytännön mies tieteen kustannuksella".
+— Suom. muistutus.) Sekä Goethe että Hegel olivat kumpikin Olympian
+Zeus [Olympian Zeus — kreikkalaisten ylijumala Zeus, jonka he
+otaksuivat asuskelevan Olympoksen vuorella. — Suom. muistutus.] omalla
+alallaan, mutta kumpikaan heistä ei ollut kokonaan vapaa saksalaisesta
+filistealaisuudesta.
+
+Mutta tämä ei kuitenkaan merkitse sitä, etteikö hegeliläinen
+järjestelmä olisi näytellyt verrattoman paljon suurempaa osaa kuin
+mikään edellinen filosofinen järjestelmä, ja tämän järjestelmän
+ansiota on se ajatusrikkauksien kehittyminen joka on hämmästyttävä
+vielä tänäkin päivänä. Ajatuksen fenomenologia (Fenomenologia
+— oppi ajatusilmiöitten kehityksestä, jonka voi rinnastaa
+ajatuksen sikiökehitysopin ja paleontologian [Paleontologia — oppi
+muinaisjäännöksistä.] kanssa), inhimillisen tietoisuuden kehitys,
+eri vaiheiden lävitse, selitti yhtenäisesti sen luomiskehityksen
+minkä lävitse ihmisen tajunta on historiallisesti vaeltanut —
+logiikan, luonnonfilosofian, ajatusfilosofian, ja myöhemmin
+erotteli sen erinäisiin historiallisiin alaosastoihin — filosofian
+historiaan, oikeusfilosofiaan, uskonnonfilosofiaan, filosofian
+historiaan, estetiikkaan (Estetiikka — kaunotaide.) j.n.e.
+Hegel työskenteli kaikilla näillä eri historiallisilla aloilla,
+löytääkseen ja todistaakseen kehityksen jäljet, hän ei ollut
+ainoastaan luova suurkyky, mutta mies, joka omasi ensyklopedisen
+(Ensyklopedinen — kaikki inhimillisen tieteen alat käsittävä —
+monitieteellinen.) lahjakkuuden, hän oli täten, kaikessa suhteessa
+historiallinen loistotähti. On ilmeistä, että välttämättömyyden
+pakosta hän "Järjestelmä"-teoksessaan joutui usein hakemaan suojaa
+pakkorakennelmissa, josta hänen matalat vastustajansa vielä tänäkin
+päivänä pitävät niin suurta ääntä. Mutta nämä rakennelmat olivat
+ainoastaan raameja ja pylväitä hänen työlleen; joka ei pysähdy
+tarpeettomasti näihin, vaan tunkeutuu syvemmälle hänen rakennukseensa,
+löytää sieltä lukemattomia rikkauksia, jotka pitävät täysin paikkansa
+vielä tänäkin päivänä. Mitä tulee kaikkiin filosofeihin, heidän
+järjestelmänsä on tuomittu kuolemaan, ja seuraavasta syystä, koska se
+lähtee ihmissielun kuolemattomasta halusta, halusta hävittää kaikki
+ristiriitaisuudet. Mutta jos kaikki ristiriitaisuudet yht'äkkiä
+ja ainaiseksi lopetetaan, olemme me saavuttaneet niin kutsutun
+absoluuttisen totuuden, historia on loppuun eletty, ja kuitenkin se yhä
+jatkuu ja menee eteenpäin, vaikka sillä ei ole enään mitään tekemistä
+— se jatkuu koskaan ja yhä vaikeammin ratkaistavia ristiriitaisuuksia
+kohti. Niin pian kuin me kerran olemme tulleet täydellisiksi — ja
+Hegel auttoi meitä täydellisentymään enempi kuin kukaan toinen —
+merkitsee tällainen työ filosofialle juuri samaa kuin jos yksi
+filosofi suorittaisi kaiken mikä on mahdollinen ainoastaan koko
+ihmiskunnalle suorittaa sen edistyksellisen kehityskauden aikana — ja
+niin pian kuin me ymmärrämme tämän, täytyy meidän niin sanoaksemme
+ryhtyä uudestaan alusta alkaen tutkimaan filosofiaa. Tällä tavoin me
+hylkäämme absoluuttisen totuuden ja pidämme sen saavuttamattomana
+yksilölle ja sen sijalle me etsimme relatiivista (suhteellista)
+totuutta positiivisen tieteen avulla, ja keräämme sen tieteen
+totuuksia dialektista ajattelutapaa noudattaen. Hegelin universaalinen
+[Universaalinen — maailmankaikkeudellinen] filosofia haaksirikkoutui
+myöskin siinä, että hän pyrki yhdistämään järjestelmäänsä kaiken
+kehityksen suurimmassa mahdollisessa laajuudessa; ja toiselta puolen
+siksi, että hän pyrki näyttämään meille tietä, huolimatta siitä
+kykenikö hän itsekään tämän järjestelmän labyrinthin [labyrintti
+— tuhatkamarinen eli monisokkeloinen] keskellä löytämään maailman
+positiivista todellista tietoisuutta.
+
+Joku voi ihmetellä että minkä tavattoman vaikutuksen hegeliläinen
+filosofia mahtoikaan tehdä filosofiaa kuolettavassa saksalaisessa
+ilmapiirissä. Sen riemukulku kesti kymmenen vuotta eikä suinkaan
+kuollut Hegelin mukana. Päinvastoin, vuodesta 1830 vuoteen 1840
+hegeliläisyys vallitsi ylinnä ja takertui vastustajiinsa suuremmassa
+tai pienemmässä määrin. Tällä ajalla Hegelin näkökannat, tietoisesti
+tai tiedottomasti tunkeutuivat erinäisiin tieteisiin ja kuvasti itsensä
+kansantajuisessa kirjallisuudessa ja päivälehdissä, josta jokapäiväinen
+n. k. kulttuuriluokka ammensi henkisen ravintonsa. Mutta tämä voitto
+kautta linjan oli vain sen omissa riveissä syntyvän taistelun
+edelläkävijä.
+
+Hegelin opit jättivät kauttaaltaan, kuten olemme huomanneet,
+riittävästi sijaa tuoda esiin sen nimessä mitä vastakkaisimpia
+käytännöllisiä mielipiteitä, ja silloin käytännöllinen teoreettinen
+Saksa käsitti kaksi asiaa — uskonnon ja politiikan. Joku joka antoi
+suurimman painon hegeliläiselle järjestelmälle, voi olla kohtuullisen
+konservatiivinen näissä molemmissa asioissa, kun taas se joka antoi
+suurimman huomion Hegelin dialektisella metodille, kuului äärimmäiseen
+vasemmistoon sekä uskonnossa että politiikassa. Hegel itse, huolimatta
+lukuisista vallankumouksellisista myrskyn purkauksista teoksissaan, oli
+kokonaisuudessaan taipuvainen konservatiivismiin. Hänen järjestelmänsä,
+mieluummin kuin hänen metodinsa oli maksanut hänelle paljon raskasta
+ajattelua. Yhdeksännentoista vuosisadan kolmannen vuosikymmenen lopun
+lähestyessä jakaantuminen hegeliläisessä koulukunnassa kävi yhä
+suuremmaksi ja suuremmaksi. Vasemmisto, niin kutsutut nuorhegeliläiset
+oikeauskoisessa herännäisyystaistelussaan antautuivat vähitellen, joka
+merkitsi filosofian taka-askelta päivän polttaviin kysymyksiin nähden.
+
+Ensi aluksi salli valtio nuor-hegeliläisten levittää oppejaan,
+vieläpä heitä suojelikin, mutta Friedrich Wilhelm IV:nnen mukana
+nousi kruunuun myöskin oikeaoppinen herännäisyys ja absoluuttinen
+feodalismi, jolloin avonaista taistelua ei enään voitu välttää.
+Taistelua käytiin yhä edelleenkin filosofisilla aseilla, mutta ei enään
+pitemmälti abstraktisissa filosofisissa merkeissä; nuorhegeliläiset
+kielsivät suoraan vallitsevan uskonnon ja vallassaolevan valtiovallan,
+ja vaikkakin "Deutschen Jahrbücher'issa" [vanhoillisten tiedemiesten
+tieteellinen aikakausjulkaisu] yhä puettiin käytännölliset päämäärät
+hegeliläisen filosofian fraseologian pukuun, viskasi nuorhegeliläinen
+koulukunta lehdessään "Rheinische Zeitung" pois filosofisen kaapun,
+taistelevien radikaalien filosofian puolustajina ja käytti filosofiaa
+ainoastaan pettääkseen sensuuria.
+
+Mutta politiikka oli silloin sangen vaarallinen ala, joten päätaistelu
+kohdistettiin uskontoa vastaan. Mutta tämä oli myöskin, varsinkin 1840
+luvun jälkeen epäsuorasti poliittista taistelua. Straussin "Das Leben
+Jesu", joka julkaistiin 1835, oli antanut ensimmäisen aiheen tähän.
+Tästä syntyi väittely, koskeva uskonnon salaperäisyyttä, kysymykseen
+takertui myöhemmin Bruno Bauer, esittäen lisää todistuksia kuinka koko
+sarja evankelisia taruja on niiden kirjottajain keksimiä. Väittely
+näiden kahden välillä tapahtui filosofian verhoomana, kuten järjen
+taistelu aineen kanssa; kysymys, olivatko ne ihmeelliset evankeliset
+tarut syntyneet yhteiskunnan kohdun tiedottoman salaperäisyyden
+sopukassa, tai olivatko ne evankelistani yksilöllisiä keksintöjä,
+laajeni kysymykseksi oliko ihmissukukunnan, järjen ja aineen historia
+täysipainoinen, ja viimeksi ilmestyi Stirner, uudenajan anarkismin
+profeetta — bakunilaisuus on lainannut paljon häneltä — ja kumosi
+tajunnan voiman omalla yksilöllisellä voimallaan.
+
+Me emme seuraa hegeliläisen koulukunnan hajaantumista tältä kannalta
+tämän pitemmälle. Meille on tärkeämpää seuraava: joukko päättävimpiä
+nuorhegeliläisiä ajautui takaisin englantilais-ranskalaiseen
+materialismiin sen välttämättömyyden takia, että he taistelivat
+positiivista uskontoa vastaan. Tässä taistelussaan he joutuvat
+vastakkain koulukuntansa opetuksen kanssa. Materialismin mukaan luonto
+on olemassa varmana todellisuutena, hegeliläisessä järjestelmässä
+se oli olemassa vain pelkkänä lisäkkeenä absoluuttiselle aatteelle,
+ikäänkuin se olisi ollut häväistys tälle aatteelle; kaikessa
+tapauksessa ajatus ja ajatuksen tuotteet, aate, tämän näkökannan
+mukaan, ilmeni alkuperäisenä, luonto taas oli olemassa vain tämän
+aatteen tuloksena, ja tämän vastakohdan he voivat sivuuttaa niin hyvin
+tai niin huonosti kuin saattaa otaksua.
+
+Sitten ilmestyi Feuerbachin "Wesen des Christenthums". Yhdellä iskulla
+se hävitti tämän vastakohdan, asettaen materialismin valtaistuimelle
+jälleen ilman mitään viisasteluja. Luonto on olemassa riippumattomana
+kaikista filosofioista. Se on peruste, jolleka me, itsekin ollen
+luonnon tuotteita, olemme rakennetut. Ulkopuolella ihmisen ja luonnon
+ei mitään ole olemassa, ja ne korkeammat olennot, jotka meidän
+uskonnolliset mielikuvittelijamme ovat luoneet, ovat ainoastaan meidän
+yksilöllisyytemme mielikuvaheijastuksia. Vanne rikkoutui, järjestelmä
+hajaantui ja murskaantui, koska se oli perustunut ainoastaan
+mielikuvitukselle, ja ristiriita oli ratkaistu. Voidakseen täysin
+käsittää tämän teoksen voimakkaan vaikutuksen, olisi täytynyt olla
+itse sen näkemässä. Sen aikaansaama innostus oli yleinen, me olimme
+kaikin silloin Feuerbachin seuraajia. Joka on lukenut Marxin "Pyhä
+Perhe"-teoksen, saa käsityksen kuinka suurella innostuksella Marx
+tervehti tätä uutta ajatusta, huolimatta niistä muistutuksista mitä hän
+sitä vastaan teki.
+
+Juuri tämän teoksen virheet antoivat sille hetkellisen vaikutuksen. Sen
+kirjallisuus-, mieltäkiinnittävä ja yksinpä sen pommittava tyyli saivat
+sille suuren lukijakunnan, ja koitui se jatkuvaksi virkistykseksi
+monivuotisen abstraktisen ja sekavan hegeliläisyyden jälkeen. Saman
+vaikutuksen antoi tuhlaava rakkauden ylistely, joka saa anteeksiannon,
+ellei juuri oikeutuksensa, kun vertaa sitä sietämättömään puhtaan
+järjen ylistelyyn. Mutta mitä me emme saa unohtaa on se, että juuri
+näille Feuerbachin heikkouksille perustuva "todellinen sosialismi"
+tarttui valistuneeseen Saksaan, kuten riehuva kulkutauti jälkeen vuoden
+1844. Tämä "sosialismi" asetti kirjallisuusfraaseja tieteellisten
+totuuksien sijalle, vapauttaen ihmiskunnan rakkauden avulla, sen sijaan
+että se olisi pyrkinyt vapauttamaan proletariaatin tuotantovoimain
+taloudellisen muunnoksen kautta; toisin sanoen, se hukutti itsensä
+viljaviin kauniisiin kirjoituksiin ja sairaaseen sentimentaalisuuteen,
+jonka tyypillisiä kirjoittajia oli herra Karl Grün.
+
+Me emme saa myöskään unohtaa, että vaikkakin hegeliläinen koulukunta
+oli hävitetty, ei hegeliläinen filosofia ollut lopullisesti hävinnyt.
+Strauss ja Bauer edustivat niistä toinen toista puolta ja toinen toista
+ja kävivät polemiikkia keskenään. Feuerbach murskasi hegeliläisen
+järjestelmän ja viskasi sen kokonaan syrjään. Mutta kukaan ei voi tehdä
+loppusuoritusta jonkun filosofisen järjestelmän kanssa yksinkertaisesti
+julistamalla sen valheelliseksi, ja niin suuren työn käsittävä
+filosofia kuin Hegelin, jolla oli kansakunnan henkisyyteen niin
+suunnaton vaikutus, ei antanut niin vain syrjäyttää itseään yhdellä
+iskulla. Se oli tuhottava sen omalla menettelyllä, joka merkitsee sitä,
+että sen muoto on murskattava vakaumuksella, mutta säästettävä ne uudet
+tiedon saavutukset mitä se oli luonut. Kuinka tämä tapahtuu, me tulemme
+näkemään tuonnempana.
+
+Mutta toistaiseksi 1848 vuoden vallankumous viskasi syrjään kaiken
+filosofisen väittelyn, yhtä yksinkertaisesti kuin Feuerbach oli
+syrjäyttänyt Hegelin filosofian. Ja silloin Feuerbach itse tuli
+hukutetuksi.
+
+
+
+II.
+
+
+Suuri peruskysymys kaikille filosofisille teorioille, varsinkin
+uusille, liittyy ajattelun ja ihmisen välisiin suhteisiin. Jo
+varhaisina aikoina, jolloin ihminen oli täydellisesti tietämätön oman
+ruumiinsa rakenteesta ja toiminnasta ja unennäköjen kiihottamina [Tänä
+aikana vallitsi barbaarikansojen keskuudessa sangen yleisenä ajatus,
+että ne ihmisolennot, jotka ilmestyvät meille unissa ovat sieluja,
+jotka ovat tilapäisesti lähteneet ruumiistaan, ja että niinmuodoin
+todellinen ihminen joutuu vastuunalaiseksi unissa ilmestyvistä teoista.
+Täten esim. Imthurm huomasi asianlaidan olevan intiaanien keskuudessa
+Guineassa v. 1834.] teki sellaisen johtopäätöksen, että ajatukset
+ja mielijohteet eivät ole heidän omien ruumiidensa toimintoja, vaan
+erikoisen ruumiissa olevan sieluosaston, joka on jättänyt ruumiin
+kuolleeksi, ja aina siitä asti ovat he ajatelleet sielun suhdetta
+muuhun maailmaan. Jos sielu erotti itsensä ruumiista ja jäi elämään,
+niin ei ollut mitään syytä otaksua että se kuolisi ensinkään; täten
+syntyi käsitys sielun kuolemattomuudesta, joka alkuasteellaan ei
+ilmennyt heille lohdutuksena, vaan sallimuksena, jota vastaan
+ihminen ei voi taistella, ja useinkin sitä pidettiin, kuten esim.
+kreikkalaisten keskuudessa, suoranaisena onnettomuutena. Sielun
+kuolemattomuuskäsite ei johtunut uskonnollisesta lohdutuksen kaipuusta,
+vaan samanlaisesta yleisestä tietämättömyydestä kuin sekin, miten on
+sielun, jonka olemassaolo keksittiin, käypä sen jälkeen kun ruumis
+on kuollut. Juuri samalla tavalla ensimmäiset jumalat synnytettiin,
+personoittamalla luonnonvoimia, ja nämä uskontojen edelleen kehittyessä
+saivat yhä suuremman ja suuremman yliluonnollisen voiman, kunnes
+abstraktisen luonnollisen kehityksen kuluessa, tai voisi sanoa
+erottelun jälkeen monta muuta pienempää jumalaa kehitettiin, ja lopulta
+kaikkikäsittävä yksijumaluususkonto otti sijansa ihmisten mielissä.
+
+Kysymyksellä ajattelun suhteesta ihmiseen, hengen suhteella luontoon
+— universaalisen filosofian korkein kysymys — ei siis ole vähemmän
+kuin kaikilla uskonnoillakaan, juurensa raakalaisajan rajoitetuissa ja
+tiedottomissa ajatuksissa. Se voi tulla ymmärretyksi ensi kerran, ja
+sen täydellinen merkitys voidaan käsittää vasta silloin, kun ihmiskunta
+heräsi pitkästä kristillisen keskiajan talviunestaan.
+
+Kysymys ajattelun suhteesta olemassaoloon; kysymys, joka on myöskin
+pelannut suurta osaa keskiajan skolastiikassa; kysymys, mikä oli
+alkuhenki eli luonto; tämä kysymys on nyt muuttunut, huolimatta
+kirkosta, täksi kysymykseksi: "Onko jumala luonut maailman vai onko
+maailma iankaikkinen?"
+
+Kun tähän kysymykseen vastattiin yksi yhdellä ja toinen toisella
+tavalla, jakaantuivat filosofit kahteen suureen leiriin. Toinen näistä
+puolueista, joka asetti hengen synnyn edelle luontoa ja niin muodoin
+loppukädessä hyväksyi luomisteorian, muodossa tai toisessa — ja tämä
+luominen on filosofien mukaan, ja erikoisesti esim. Hegelin mukaan,
+vieläkin oudompi ja mahdottomampi kuin kristinusko — joutui idealistien
+leiriin. Toiset taasen, jotka tunnustivat luonnon alkulähteeksi,
+kuuluivat erinäisiin materialistisiin koulukuntiin.
+
+Nämä kaksi selitystä merkitsivät kuitenkin jotain muuta. Idealismia
+ja materialismia, joita termejä ei alkujaan käytetty missään muussa
+merkityksessä, ei tässäkään käytetä muussa merkityksessä. Me saammekin
+nähdä mikä sekaannus siitä kehittyy, jos näitä termejä yritetään
+käyttää tämän yhteydessä muussa merkityksessä.
+
+Kysymyksellä ajattelun ja olemassaolon suhteissa on toinenkin
+puolensa, nimittäin, missä suhteessa ovat meidän ajatuksemme meitä
+ympäröivässä maailmassa tähän maailmaan itseensä nähden. Kykenevätkö
+meidän ajatuksemme huomaamaan todellisen mailman? Voimmeko me meidän
+aatteissamme ja huomioissamme todellisesta maailmasta synnyttää
+oikean kuvan todellisuudesta? Tätä kysymystä kutsutaan filosofisella
+kielellä ajattelun ja olemassaolon tajunnaksi, jonka myöntää suuri
+enemmistö filosofeista. Esimerkiksi Hegelin mukaan sen tunnustaminen
+on ilmeistä, sillä se mitä me tiedämme varsinaisesta maailmasta on
+sen sisältö, meidän ajatuksemme mukaan; se mikä pakottaa mailman
+edistykselliseen ymmärtämiseen, ikäänkuin se olisi absoluuttinen
+aate, joka absoluuttinen aate on ollut olemassa jossain, erillään
+maailmasta ja ennen maailmaa; ja että ajatus voi havaita sen sisällön
+sellaisena kuin se on tässä esitetty, heti alusta, näyttää itsestään
+selvältä. On myöskin ilmeistä, että se mikä tässä voidaan todeta on
+jälleen salattu otaksumiin. Mutta tämä ei estä Hegeliä ensinkään
+vetämästä edelleen johtopäätöstä hänen ajatuksen ja olemassaolon
+alkuperän todistuksistaan, että koska hänen filosofiansa on oikea hänen
+ajatuksissaan, se on niinmuodoin ainoa oikea, ja että ajatuksen ja
+olemassaolon käsitteen tulee osoittaa itsensä siinä, että ihmiskunnan
+tulee muuntaa hänen filosofiansa teoriasta käytännöksi ja koko mailman
+tulee asettua hegeliläiselle perusteelle. Tämä on mielikuvitelma, jonka
+hän on luonut kuten kaikki muutkin filosofit.
+
+Tämän lisäksi on toinen laji filosofeja, nimittäin ne, jotka
+asettavat kyseenalaiseksi maailmankaikkeuden tuntemisen tai ainakin
+sen täydellisen tuntemisen. Näihin kuuluu uudemman ajan filosofeista
+Hume ja Kant, jotka ovat näytelleet kunnioitettavaa osaa filosofian
+edistyksessä. Tämän näkökannan on Hegel kumonnut niin pitkälle kuin se
+on mahdollista idealistiselta näkökannalta. Feuerbachin materialistiset
+lisäykset siihen ovat mestarillisia mutta ei syvällisiä. Murhaavin
+edellämainitun, samoin kuin kaikkien muidenkin rajoitettujen
+filosofisten ajatusten kumoamisesta on käytännöllinen tulos, nimittäin
+kokeilu ja teollisuus. Jos me nimittäin voimme todistaa aatteemme
+paikkansa pitäväisyyden omaperäisellä käytännöllisellä kokeilulla
+ja kehittää sen erinäisistä alkutekijöistä, käyttäen sitä omiin
+kauppatarkoituksiimme, niin kantilainen fraasi "Ding an Sich" (olento
+itse) menettää kaiken merkityksensä. Kemialliset ainekset joista
+muodostuu kasvien ja eläinten ruumiit, pysyivät aivan samanlaisena
+"Dinge an Sich", kunnes orgaaninen kemia todisti tämän asian toisin
+kerran toisensa jälkeen, jolloin "olento itse" tuli olennoksi meille,
+kuten väripuun väriaine, jonka me emme enään sallineet kasvaa maassa,
+vaan valmistimme samanlaista väriainetta ja paljon halvempaa ja
+yksinkertaisemmin hiilitervasta. Kopernikuksen [Nikolai Kopernikus
+(1473—1543) uudenaikaisen tähtitieteen ja n.s. heliosentrisen
+maailmanjärjestelmän kuuluisa keksijä, joka ensiksi väitti, 1) Että
+maapallo pyörii lännestä itään kiinteän akselin ympäri. Tästä seuraa
+taivaankappalten jokapäiväinen, näennäinen liike idästä länteen. 2) Maa
+liikkuu samalla kun se pyörii akselinsa ympäri lännestä itään, samassa
+suunnassa auringon ympäri. 3) Samoin kuin maapallo kiertävät myös
+kaikki kiertotähdet aurinkoa, josta seuraa että ne välistä näyttävät
+seisovan paikallaan, välistä taas liikkuvan taaksepäin. — Vähän ennen
+kuolemaansa julkaisi K. pitkällisen työnsä tulokset teoksessaan "De
+Revolutionibus Orbium Celestium" (Taivaankappalten vallankumous.)]
+järjestelmä oli vielä kolme sataa vuotta sitten joukko otaksumia, tosin
+kylläkin sitä tuki sadat, tuhannet jopa kymmenen tuhatta seikkaa, mutta
+se oli otaksuma sittenkin. Mutta kun Leverrier [Urbian Jean Joseph
+Leverrier (1811—77), kuuluisa ranskalainen tähtitieteilijä, Neptunuksen
+löytäjä] tämän järjestelmänsä avulla keräämiensä ainesten avulla löysi
+tähän asti tuntemattoman planeetan, ja vielä sen lisäksi laski sen
+aseman avaruudessa mikä tällä planeetalla siinä välttämättömästi täytyi
+olla, ja kun myöhemmin Galles löysi tämän planeetan varsinaisesti,
+oli Kopernikuksen järjestelmän pätevyys todennettu. Mutta jos tästä
+huolimatta kantilaisen aatteen uudestaan henkiin virkistämistä on
+yritetty — Saksassa puolkantilaisten toimesta, ja Humen kannattajien
+taholta Englannissa (jossa tämä suunta ei ensinkään kuollut) —
+jumalankieltäjien taholta, on se, pitkän teoreettisen ja käytännöllisen
+näiden aatteiden kumoamisen jälkeen, tieteellisesti askel taaksepäin,
+ja itseasiassa pelkkää materialismin tunnustamista häpeällisellä
+tavalla ja salaisesti, ja sen kieltämistä maailman silmissä.
+
+Mutta filosofit eivät olleet vielä tällä pitkällä ajalla Descartesista
+Hegeliin ja Hobbesista Feuerbachiin läheskään puhtaan järjen
+ohjaamia, kuten he luulivat. Päinvastoin heitä kannusti todellisesti
+ja erikoisesti voimakkaat ja mahdollisimman nopeat askeleet
+luonnontieteen ja teollisuuden hallintaan. Materialistien keskuudessa
+tämä ilmiö tuli sangen pian pinnalle, idealistiset järjestelmät taas
+täyttivät itsensä yhä suuremmassa määrin materialistisella sisällöllä
+ja pyrkivät tasoittamaan aineen ja hengen välistä ristiriitaa
+pantheismilla [panteismi — järjestelmä joka perustuu otaksumaan,
+että maailmankaikkeus on jumala. — Suom. muistutus], niin että
+loppukädessä Hegelin järjestelmä edusti pelkästi ylösalaisin käännettyä
+materialismia, idealistisen menettelyn ja sisällön mukaan.
+
+Tosin Starcke teoksessaan "Feuerbachin filosofian piirteistä", pyrki
+tutkimaan ajattelun ja olemassaolon suhteiden peruskysymyksiä.
+Tämän jälkeen huomatuimpien filosofien aatteita, erikoisesti Kantin
+jälkeläisten, käsitellään tarpeettoman vaikeatajuisella kielellä, ja
+jossa Hegel, johtuen liian virallisesta painokkuudesta joissakin kohdin
+hänen teoksissaan, ei saa hänelle kuuluvaa tunnustusta, sitten seuraa
+sangen runsas kuvaus Feuerbachin metafysiikan kehityksestä, sellaisena
+kuin se ilmenee tämän filosofin tunnetuimmissa teoksissa. Tämä kuvaus
+on mestarillisesti ja taidokkaasti esitetty, ja kuten koko teos, on
+liioteltavasti täytetty, ei aina vältettävissä olevilla filosofisilla
+fraaseilla, joka on sitäkin tuskastuttavampaa, kun kirjoittaja ei
+osaa erottaa eri koulukuntien lausetapaa, eikä tunne edes Feuerbachin
+itsensä ajatusvivahduksia, vaan sekoittaa eri koulukuntien selitykset
+toisiinsa, ja erikoisesti sekoitti tähän kuvaukseen sen aikuiset
+lahkolaispyrkimykset, jotka kutsuivat itseään filosofisiksi
+koulukunniksi.
+
+Feuerbachin filosofia kehittyy eteenpäin hegeliläiseen materialismiin
+— ei oikeauskoiseen hegeliläisyyteen, tosiaankin — se on kehitystä
+vissistä lähtökohdasta, joka särkee täydellisesti välit edeltäjänsä
+idealistisen järjestelmän kanssa. Kumoamattomilla totuuksilla hän
+tulee johtopäätökseen, että hegeliläinen ajatus absoluuttisen
+aatteen olemassaolosta ennen mailmaa, ja erinäisten loogillisten
+kategorien synty ennen maailmankaikkeutta, ei ole mitään muuta
+kuin mielikuvituksessa elävä usko maailman ulkopuolella olevasta
+luojasta; että aineellinen, järjellinen, varsinainen maailma, johon me
+itsekin kuulumme, on ainoa todellisuus, ja että meidän tajuntamme ja
+ajatuksemme, kuinka hyvänsä yliluonnollisilta ne näyttävätkin, ovat
+ainoastaan todistuksia elimellisestä orgaanista, aivostosta. Aine
+ei ole järjen tuote, mutta järki on aineen korkein tuote. Tämä on
+luonnollisesti puhdasta materialismia. Mutta kun Feuerbach pääsi tähän
+asteeseen, hän pysähtyi. Hän ei voinut sivuuttaa tavallista filosofista
+ennakkoluuloa — ennakkoluuloa, ei esinettä, vaan materialismin nimeä
+kohtaan. Niinpä hän lausuukin: "Materialismi on minulle ihmisen
+olemassaolon ja tietoisuuden rakennuksen peruste, mutta se ei ole
+minulle sitä mitä se on fysiologille ahtaassa merkityksessä, kuten
+esim. Moleschottille [Jacob Moleschott, etevä fysiologi, toimien m.m.
+Zürichin yliopiston fysiologian professorina, johon toimeen hänet
+nimitettiin v. 1856, sittemmin samassa toimessa Torinossa ja Roomassa.
+Hän oli aikansa etevimpiä tiedemiehiä alallaan, tutkien fysiologian eri
+aloja, kuten verta, hengitystä, valon vaikutusta aineen vaihdokseen
+y.m. Kirjoitti useita huomattavia teoksia tutkimustensa tuloksina.
+— Suom. muistutus.], sillä heille on materialismi välttämättömästi
+rakennus itse. Taaksepäin minä olen sopusoinnussa materialismin kanssa,
+mutta en eteenpäin".
+
+Tässä sekottaa Feuerbach materialismin, joka on maailmankaikkeuden
+filosofia, vaatien vissiä ymmärtämystä aineen ja hengen välisistä
+suhteista, nimittäin siihen nähden missä erikoismuodossaan
+tämä filosofia ilmeni vissillä historiallisella aikakaudella —
+nimittäin kahdeksannellatoista vuosisadalla. Vieläkin enempi,
+hän sekotti materialismin sen onton ja raa'an muodon kanssa,
+missä kahdeksannentoista vuosisadan materialismi ilmeni nykyisin
+naturalistien ja lääkärien mielissä, jonka tekivät suosituiksi Büchner,
+Vogt ja Moleschott viisikymmentävuotisilla kirjoituksillaan. Mutta
+kuten idealismi on sivuuttanut monta kehityksellistä etenemissarjaa,
+samoin materialismi, ja jokaisella tunnetulla löydöllään luonnontieteen
+eri aloilla, se on ollut pakotettu muuttamaan muotoaan; sen jälkeen,
+historiakin, joka on alistettu materialistisen menetelmän alaiseksi, on
+löytänyt itselleen uuden tien edistyksessä.
+
+Edellisen vuosisadan materialismi oli liiaksi mekaanista, sillä kaikki
+luonnontieteet, samoin kuin mekaaniset tieteet olivat kyenneet siihen
+aikaan vetämään johtopäätöksiä ainoastaan taivaankappalten, luomakunnan
+elimistöjen ja ainekokoomusten mekanismista. Kemia oli olemassa aluksi
+ainoastaan lapsellisessa, alkuasteessaan. Biologia oli silloin vielä
+kapaloissaan, kasvien ja eläinten organismia tutkittiin ainoastaan
+sangen pintapuolisella tavalla, ja selitettiin näitä tutkimuksia
+pelkästi niiden mekaaniselta kannalta; juuri samalla tavalla kuin eläin
+oli Descartesille ainoastaan kone, samaa oli ihminen kahdeksannentoista
+vuosisadan materialisteille. Mekaanisten menetelmien täydellinen
+sovelluttaminen niihin kehitysilmiöihin, jotka ovat kemiallisia ja
+orgaanisia luonteeltaan ja joiden kautta tosin mekanismin laitkin
+ilmenevät, mutta jotka joutuvat syrjään sysätyiksi toisten korkeimpien
+lakien toimesta, tällainen menetelmä on syynä sille eriskummaiselle,
+mutta ajan huomioonottaen väistämättömälle ahdasnäköisyydelle, mikä oli
+ominaista ranskalaiselle materialismille.
+
+Toinen erikoinen tämän materialismin rajoittuneisuus ilmenee
+siinä, ettei se kyennyt edustamaan maailmankaikkeutta prosessina,
+yhtenäisenä ainekokoomuksena, joka on saanut muotonsa edistyksellisessä
+kehityskulussa. Tämä rajoittuneisuus vastaa sen ajan luonnontieteiden
+kehitysastetta ja niihin liittyviä metafyysisiä piirteitä, se on,
+dialektiikkavastaisia sen ajan filosofien menettelyjä. Silloin
+tajuttiin, että luonto on lakkaamattomassa liikkeessä, mutta tämä
+liikunta sen aikaisen yleisen käsityskannan mukaan, kulki sisäänpäin
+kääntyvää ympyräliikettä, eikä niinmuodoin milloinkaan siirtynyt
+visseistä rajoistaan, ja niin ollen aiheutti samat tulokset kerta
+toisensa jälkeen. Tämä ajatus oli sille aikakaudelle välttämätön.
+Kantilainen teoria aurinkokuntain syntyteoriasta asetettiin ensin
+näytteille ja katseltiin pelkkänä ihmeenä. Maapallon geologisen
+kehityksen historia oli silloin vielä kokonaan tuntematon, ja
+ajatusta että nykyään elävät luomakunnan esineet olisivat tuloksia
+pitkäaikaisen kehityksen etenemisestä, jonka kuluessa ne ovat
+kehittyneet alhaisimmista muodoista täydellisempiin, ei voitu siihen
+aikaan tieteellisesti todistaa. Tämä epähistoriallinen käsitys
+luonnosta oli siis välttämätön. Me emme voi syyttää kahdeksannentoista
+vuosisadan filosofeja tästä, koska Hegelissä ilmenee vielä sama
+puutteellisuus. Hänen selityksensä mukaan luonto on ainoastaan pelkkä
+ulkonainen muoto aatteesta, joka ei kykene edistymään ajan mukana,
+mutta ainoastaan laajentamaan moninaisuuttaan laajemmalle, niin että
+se näyttelee kaikki itseensä sisältyvät kehitysmuodot samanaikaisesti,
+ja on tuomittu kertaamaan saman prosessin. Ja tämän järjettömyyden
+kehityksen laajentumisesta mutta ajan kanssa erossa olevana — mikä on
+perusedellytys kaikelle kehitykselle — Hegel sovelluttaa luontoon,
+juuri aikakaudella, jolloin geologia, sikiökehitysoppi, eläinten ja
+kasvien fysiologia, ja epäorgaaninen kemia olivat rakentumassa, ja
+jolloin ennen kaikkea lupaavia ennustuksia myöhemmästä kehitysteoriasta
+ilmestyi näiden uusien tieteiden keskelle (esim. Goethe ja Lamarck),
+mutta kun järjestelmä niin vaati, niin metodin, järjestelmän
+rakkaudesta täytyi osoittautui epärehelliseksi itselleen.
+
+Tällä epähistoriallisella käsityksellä oli vaikutuksensa myöskin
+historian alalla. Tällä alalla taistelu keskiajan jäännöksiä vastaan
+piti näkökannan rajoitettuna. Keskiaikaa pidettiin ainoastaan pelkkänä
+historiallisena häiriönä tuhatvuotisen barbarismin kautta. Keskiajan
+suuria etenemisiä — eurooppalaisen tietoisuuden laajentumista, suurten
+kansakuntien näyttämölle ilmestymistä, jotka kohosivat, toinen
+toisensa jälkeen, ja lopuksi neljännentoista ja viidennentoista
+vuosisadan tavattomia teknisiä saavutuksia — kaikkea tätä ei
+kukaan kyennyt huomaamaan. Näinmuodoin terve näkökanta suuresta
+historiallisesta kehityksestä kävi mahdottomaksi, ja näin historia
+palveli pääasiallisesti vain esimerkkien ja kuvauksien keräämisessä
+filosofeille.
+
+Suulaat kaupustelijat, jotka yhdeksännentoista vuosisadan
+viisikymmentäluvulla Saksassa omaksuivat materialismin itselleen,
+eivät kuitenkaan missään tapauksessa pelastuneet teoriainsa
+ahdasnäköisyydestä. Kaikki tieteen uudet saavutukset olivat heille
+pelkästään todistuksia luojan olemassaoloa vastaan, ja tosiaankin
+heidän kaupustelija hommansa oli kaukana siitä, että he olisivat
+kehittäneet teoriojaan edemmäksi. Idealismi oli ketjunsa lopussa
+ja säikähtyi kuoliaaksi 1848 vuoden vallankumouksesta. Kuitenkin
+sillä oli ilo nähdä materialismin vajoavan yhä alemmaksi. Feuerbach
+oli ehdottomasti oikeassa kieltäytyessään omaksumasta mitään
+vastuunalaisuutta tällaisesta materialismista, sittenkään hänen ei
+olisi tarvinnut ryhtyä sekottamaan kuljeskelevien suupalttien opetuksia
+yleisen materialismin kanssa.
+
+Kuitenkin meidän on pantava tässä merkille kaksi seikkaa. Feuerbachin
+eläessä oli tiede vielä kiihkeässä kuumetilassaan, selviten
+verraten paljon vasta viimeisen viidentoista vuoden ajalla; uutta
+materialistista tietoisuutta saatiin tähän asti ennenkuulumattomassa
+määrin, mutta niiden keskinäisten suhteitten määrittely ja
+järjestely tässä suunnattomassa uusien löytöjen kaaoksessa kävi
+mahdolliseksi vasta myöhemmin ensi kerran. Totta on, että Feuerbach
+oli elänyt nähdäkseen kolme tärkeää löytöä — se on, solun, energian
+siirtämisteorian ja kehitysteorian, joka on tunnustettu sitten
+Darwinin. Mutta kuinka voi yksinäinen maalla-asuva filosofi käsittää
+näiden keksintöjen täyttä arvoa silloin, kun luonnontieteilijät
+itsekin osaksi väittivät niitä vastaan ja osaksi eivät tienneet
+miten edistää niiden tunnetuksi tekemistä? Häpeä lankeekin
+yksinomaan Saksassa vallitsevien kurjien olosuhteiden kontolle,
+jossa filosofian professorien istuimet oli täytetty tietämättömillä
+lainoppineilla matelijoilla, samalla kun Feuerbachin, joka loisti
+korkealla yläpuolella heitä kaikkia, täytyi asua ja pysyä terävänä
+pienessä maalaiskylässä. Ei ole näin ollen häpeäksi Feuerbachille,
+ettei hän milloinkaan kyennyt täysin käsittämään luonnontieteellistä
+kehityksellistä filosofiaa, joka tuli mahdolliseksi ranskalaisen
+materialismin erinäisten piirteiden hävittyä.
+
+Toiselta puolen Feuerbach oli täysin oikein sitä mieltä, että
+tieteellinen materialismi on inhimillisen tietoisuuden rakennuksen
+perustus, mutta ei rakennus itse, sillä me emme elä yksinomaan
+luonnossa, vaan inhimillisessä yhteiskunnassa, ja tällä on
+edistymisteoriansa ja tieteensä, joka ei suinkaan ole vähäisempi
+kuin luonnon teoria ja tiede. Oli näinmuodoin välttämätöntä luoda
+yhteiskuntatiede, se on, niinkutsutut historialliset ja filosofiset
+tieteet, sopusointuun materialististen perusteiden kanssa ja
+uudestaanrakentaa niille. Mutta tämä ei ollut sallittua Feuerbachille.
+Tässä hän takertui, huolimatta "perusteista", joutuen idealismin
+monimutkaisiin kahleisiin, ja tämän hän itse todistaa sanoissaan:
+"Taaksepäin minä olen materialismin kanssa sopusoinnussa, mutta
+en eteenpäin." Mutta Feuerbach ei mennyt eteenpäin näkökantoineen
+inhimillisestä yhteiskunnasta, siitä mitä hän omasi vuosina
+1840—1844, pääasiallisesti sen yksinäisyyden takia, jossa hän oli
+pakotettu ajattelemaan kaikki yksinään, sen sijaan että hän olisi
+ollut ystävyydessä ja taisteluissa vertaistensa tiedemiesten kanssa,
+joskin hän oli mitä ystävällisin kaikista filosofeista toverilleen.
+Me tulemme näkemään miten hän täten jäi idealistiksi. Me tässä vain
+panemme merkille, että Starck etsi Feuerbachin idealismia väärästä
+paikasta. "Feuerbach on idealisti; hän uskoo ihmiskunnan edistykseen".
+"Perusteet, kaiken tukipylväät eivät ole siis mitään muuta kuin
+idealismia. Realismi (todellisuus) ei ole meille mitään muuta kuin
+suoja erehdyksiä vastaan, seuratessamme idealistisia vaikutelmia.
+Eivätkö myötätunto, rakkaus ja innostus totuuteen ja oikeuteen ole
+ihanteellisia voimia?"
+
+Ensinnäkin idealismi määritellään tässä ei olevan mitään muuta
+kuin ihanteellisten päämäärien seuraamista. Näillä määrittelyillä
+viitataan Kantin idealismiin ja "Kategorisen imperatiiviin". Mutta
+Kant itse kutsuu filosofiaansa "transcendentaaliseksi idealismiksi"
+[transcendentaalinen filosofia, joka selittää menevänsä pitemmälle
+kuin kokemus voi mennä. — Suom. muistutus.], ei sentähden, koska hän
+käsittelee siinä moraalisia ihanteita, vaan aivan toisista syistä,
+kuten Starcken hyvin tulisi muistaa.
+
+Se pohjaton olettamus, että filosofinen idealismi heiluu moraaliin
+uskomisen ympärillä, se on yhteiskunnallisissa ihanteissa, ilmestyi
+saksalaisen filosofiavastaisen filistealaisen mukana, joka syöksi
+muististaan muutamia filosofisia vajavaisuuksia, jotka hän oli löytänyt
+Schillerin runoista. Kukaan ei ole kritiseerannut kuolettavammin Kantin
+ontuvaa kategorista imperatiivia — ontuvaa siksi, koska se perustui
+mahdottomuuksille eikä niin ollen milloinkaan saavuttanut todellisuutta
+— ei kukaan ole pilkannut säälimättömämmin Schillerin filistealaista
+sentimentaalisuutta, sen toteuttamisella mahdottomien aatteiden vuoksi
+kuin juuri idealismin suurin profeetta Hegel.
+
+Toiseksi, sitä seikkaa, että inhimilliset tunnelmat lähtevät
+aivostosta, ei voida välttää — yksinpä syöminen ja juominenkin, joita
+harjoitetaan nälän ja janon sammuttamiseksi, tuntuvat aivostossa ja
+taas niiden päätyttyä tuntuu aivostossa tyytyväisyyden tunnelma.
+Ulkonaisen mailman todellisuudet tunkeutuvat ihmisen aivostoon,
+heijastuvat sieltä tunnelmina, ajatuksina, toimintaohjeina,
+toimintahaluina, lyhyesti sanottuna, aatteellisina pyrkimyksinä, ja
+tässä muodossa tulevat aatteellisiksi voimiksi. Jos tämä seikka,
+että tämä ihminen seuraa aatteellisia taipumuksiaan ja myöntää että
+aatteellisilla voimilla on vaikutusvalta häneen nähden, jos tämä tekee
+hänestä idealistin, silloin jokainen ihminen on vississä mielessä
+synnyltään idealisti, ja kuinka nämä asianhaarat huomioon ottaen
+materialisti voi olla olemassa?
+
+Kolmanneksi, vakuudella, että ihmisyys, ainakin nykyisin, on
+kokonaisuudessaan kehityksen alainen, ei ole mitään tekemistä
+materialismin ja idealismin välisen vastakkaisuuden kanssa. Ranskan
+materialisteilla oli tällainen mielipide fanaattisesti, eikä vähemmässä
+määrin kuin Voltairella ja Rousseaulla (jotka uskoivat jumalan
+olemassaolon, mutta taistelivat vallitsevaa kirkkoa vastaan) ja nämä
+tekivät mitä suurimpia persoonallisia uhrauksia sille. Jos kukaan on
+milloinkaan uhrannut koko elämänsä totuuden ja oikeuden innostamana,
+sen sanan moraalisessa merkityksessä, niin sellainen oli esim. Diderot.
+
+[Denis Diderot (1713—84), kuuluisa ranskalainen kirjailija ja filosofi.
+Syntyi sepän poikana Champagnen maakunnassa, elättäen nuoruudessaan
+itseään kirjoituksillaan. Ensi kerran herätti hän suurempaa huomiota,
+julkaisemalla teoksensa "Pensées Philosophiques" 1746, jossa ankarasti
+asettui vastustamaan positiivista, perinnäistä kristinoppia, uskoa
+"vihan ja koston jumalaan", mutta vastusti myöskin ateismia. Sittemmin
+oli hän "Suuren Ensyklopedian" (tietosanakirjan) päätoimittajana,
+jonka toimittamisessa osoitti tavatonta monipuolisuutta, ja
+tiedonrikkautta, teos tullen kahdeksannentoista vuosisadan henkisen
+vapautuksen ja kumousliikkeen perusteokseksi ja suureksi voiman
+ilmaukseksi. Myöhemmällä iällään Diderot yhä jyrkkeni katsomuksissaan,
+omaksuen n.k. mekaanisen materialistisen filosofian. Hän avusti
+huomattavasti teoksen "Système de la Nature"-teoksen toimittamista,
+jota on kutsuttu "Materialismin Raamatuksi". Diderot on kirjoittanut
+myöskin monia näytelmiä. Hänen kirjallinen tuotantonsa oli yleensä
+suuri. Loppupuolella ikäänsä eli hän jonkun aikaa Pietarissa, saaden
+taloudellista kannatusta silloiselta Venäjän keisarinnalta. Katariina
+II:lta. — Suom. muistutus.].
+
+Näinmuodoin, kun Starck oli kaiken tämän selittänyt idealismiksi, se
+oli selvä todiste, että materialismi oli hänelle merkityksetön, kuten
+oli idealismin ja materialismin vastakkaisuudetkin.
+
+Tosiasia on siis, että Starck täten tekee anteeksiantamattoman
+myönnytyksen filistealaisten ennakkoluuloisuudelle, joka johtui
+papiston jatkuvasta solvauksesta materialismia vastaan, vaikkapa
+hän ei tekisikään sitä tietoisesti. Tämä filistealainen käsittää
+materialismi-sanalla mässäystä, juoppoutta, sukupuolirivoutta ja
+petollista keinottelua, sanalla sanoen, kaikkia suurimpia paheita,
+mitä hän itse salaisesti halusi, ja sanalla idealismi hän käsitti
+uskoa moraaliseen puhtauteen, universaaliseen humanitaarisuuteen ja
+kokonaisuudessaan parempaan mailmaan, jota hän saarnasi muille, ja
+johon hän itsekin suuresti uskoi, mutta ainoastaan niin kauan kuin
+joutui ottamaan vastaan vihamielisyyttä, jota välttämättömästi hän
+joutui kokemaan "materialististen" äärimmäisyyksien takia, ja siksi
+laulaakin hänen suosimansa laulu — "Mikä on ihminen? — puoleksi peto,
+puoleksi enkeli".
+
+Ja lopuksi, Starcke näkee suuren vaivan puolustaessaan Feuerbachia
+häntä vastaan tehtyjä hyökkäyksiä vastaan, samoin hän puolustaa
+niiden yliopistomiesten teorioita, jotka kutsuivat itseään Saksassa
+nykyajan filosofeiksi. Nämä asiat ovat tärkeitä niille henkilöille,
+jotka ovat innostuneet tutkimaan Saksan klassista filosofiaa sen
+syntymisen jälkeen, niinpä Starckelle itselleen tämä saattoi näyttää
+välttämättömältä. Me säästämme kuitenkin lukijaa vaivaamasta pidemmältä
+näistä seikoista.
+
+
+
+III.
+
+
+Koska Feuerbachin idealismi on ilmeisesti eroava muista idealistisista
+aatteista, joudumme me tarkastamaan hänen filosofiaansa uskonnosta
+ja siveysopista. Hän ei millään muotoa tahdo hävittää uskontoa;
+hän tahtoo täydentää sitä. Filosofian itsensäkin on sulauduttava
+uskontoon. "Inhimilliset kehitysvaiheet ovat merkittävissä ainoastaan
+uskonnollisilla muutoksilla. Ainoastaan silloin tapahtuu todellista
+historiallista edistystä, milloin se tunkeutuu ihmisten sydämiin.
+Sydän ei ole uskonnon asuinpaikka, että se sentähden täytyisi olla
+sydämessä, mutta se on uskonnon olemus itse." Feuerbachin mukaan
+uskonto on tunnelma-asia — rakkauden tunnelma ihmisen ja ihmisen
+välillä, joka tähän asti on etsinyt toteutumismahdollisuutta
+todellisuuden mielikuvitusten heijastusten olettamuksissa —
+inhimillisten ominaisuuksien mielikuvitusten heijastusten yhden tai
+useamman jumalan välityksellä — mutta nyt se hakee ilmaisumuotonsa
+rakkaudella "itsensä" ja "lähimäisensä" välillä, suoranaisesti ja ilman
+välitystä. Feuerbachin mukaan rakkaus eri sukupuolien välillä on, ellei
+korkein muoto, vähintäin yksi korkeimpia muotoja hänen uuden uskontonsa
+toteuttamismuodoista.
+
+Mieltymystunnelmat ihmisen ja ihmisen välillä, ja erikoisesti
+kahden sukupuolen jäsenten välillä ovat olleet olemassa niin kauan
+kuin ihmiskuntakin. Sukupuolirakkautta on kehitetty erikoisesti
+varsinkin viimeisen kahdeksantoista sadan vuoden ajan ja on se
+voittanut täten itselleen sen sijan mikä sillä nykyisin on, niin
+että se on tullut pakolliseksi motiiviksi kaikelle runoudelle.
+Olemassa olevat positiiviset uskonnot ovat sen sijaan rajoittaneet
+toimintansa tässä suhteessa siihen, että ovat tahtoneet asettaa
+sukupuolirakkauden valtion säännöstelyjen alaiseksi, joten uskonto voi
+täydellisesti hävitä huomenna, tekemättä mitään häiriötä rakkaus- ja
+ystävyystunnelmille. Niimpä esim. kristinuskon Ranskassa kävi täten,
+joutuen se niin täydellisesti häviölle vuosien 1793 ja 1798 välillä,
+ettei edes Napoleon kyennyt sitä uudelleen palauttamaan voimaan ilman
+suurta vastustusta ja vaikeuksia, eikä tällä väliajalla tunnettu mitään
+sijaisuskontoa kaivattavan, joten Feuerbachin väite, että kansa kaipaa
+uskontoa, ei pitänyt tässäkään paikkaansa.
+
+Feuerbachin idealismiin tässä sisältyy se, ettei hän yksinkertaisesti
+ainoastaan pidä selvänä, ihmisten keskinäisiä ja vuorovaikutuksellisia
+tunnelmia toisiinsa nähden, sellaisia kuin sukupuolirakkaus, ystävyys,
+myötätuntoisuus, itsensä uhrautuvaisuus j.n.e., mutta hän väittää, että
+niiden täydellinen toteutuminen ensi kerran on mahdollista vasta sen
+jälkeen kun nämä tunnelmat tapahtuvat uskonnon nimessä. Pääasia hänelle
+ei ole, että nämä puhtaat inhimilliset suhteet ovat olemassa, vaan että
+ne ilmeneisivät uutena todellisena uskontona, Ne voidaan täydellisesti
+toteuttaa vasta silloin kun ne on merkitty uskonnollisuuden leimalla.
+Uskonto sana johtuu latinalaisesta "religare" sanasta, joka tarkoittaa
+alkuperäisesti "kiinnittämistä." Näinmuodoin jokainen side ihmisten
+välillä on uskonto. Tällainen kielitieteellinen keinotekoisuus on
+idealistisen filosofian viimeinen turvapaikka. Sille ei merkitse
+mitään mitä sana tarkoittaa historialliselle kehitykselle sen
+todellisessa merkityksessä, vaan mitä sen tulee merkitä sen alkulähteen
+selittäjälle, ja niin sukupuolirakkaus ja sukupuolien keskinäiset
+suhteet selitetään "uskontoon" kuuluvaksi, tämä tehdään sen takia,
+jotta sana uskonto, joka on rakas idealistiselle mielelle, ei häviäisi
+kielestä. Monivärinen pariisilainen reformisti Louis Blanc puheli
+samaan tapaan kahdeksannentoista vuosisadan neljäkymmentä-luvulla,
+sillä he voivat käsittää ihmistä ilman uskontoa ainoastaan
+petoeläimenä, ja niin he tapasivat sanoa meille "Ateismi siis on teidän
+uskontonne."
+
+Feuerbachin yritys asettaa todellinen uskonto materialistisen
+filosofian pohjalla, on samaa kuin yrittää yhdessä uudenaikainen kemia
+alkemian kanssa. Ja jos uskonto voi olla olemassa ilman jumalaa, niin
+silloin alkemiakin voisi olla olemassa ilman filosofien kiveään. Olkoon
+muuten huomautettu, että alkemian ja uskonnon välillä on olemassa
+sangen läheinen yhteys. Filosofien kivellä on monta vanhan jumalan
+ominaisuutta, ja egyptiläis-kreikkalaisilla alkemisteilla on meidän
+aikakautemme kahdella ensimmäisellä vuosisadalla ollut osuutensa
+kristinuskon oppien kehittämisessä, kuten Kopp ja Berthelot todistavat.
+
+Feuerbachin väitelmä, että ihmiskunnan kehityksen eri aikakaudet
+voidaan merkitä uskonnollisilla muutoksilla, on valheellinen. Suuret
+historialliset muunnoskaudet ovat tapahtuneet yhdenmukaisesti
+uskonnollisten muutosten kanssa vain sikäli kuin on kyseessä kolme
+nykyajan suurinta uskontoa, nimittäin buddhalaisuus, kristinusko ja
+muhamettilaisuus. Vanhat heimokuntauskonnot ja kansalliset uskonnot
+saivat alkunsa luonnosta, ne eivät olleet minkään propagandan tuloksia
+ja menettivät kaiken voimansa niin pian kuin näiden heimojen tai
+kansojen itsenäisyys tuhottiin. Saksalaisille esimerkiksi oli sangen
+vähäinen yhteys häviävän Rooman valtakunnan ja sen kautta kriitillisen
+maailman uskonnon kanssa, joka oli soveltuva sen taloudellisille,
+poliittisille ja aatteellisille vaatimuksille. Ensinnäkin mitä
+tulee näihin enempi tai vähempi keinotekoisiin maailmanlaajuisiin
+uskontoihin, eritoten kristinuskoon ja muhamettilaisuuteen, voidaan
+panna merkille, että mitä enemmän yleismaailmallinen historia saa
+uskonnollisen leiman, ja eritoten mikäli se koskee kristinuskoa,
+uskonnon leima yleistä merkitystä ansaitsevissa vallankumouksellisissa
+liikkeissä menetti sangen pian merkityksensä porvariston
+vapautustaistelussa, joka riehui kolmannestatoista vuosisadasta
+kahdeksanteentoista vuosisataan, eikä uskonto tällöin enään
+näyttäytynyt, kuten Feuerbach väittää, ihmisten sydämissä ilmenevänä
+uskonnon janona, vaan esiintyi se läpi koko aikaisemman keskiajan
+historian, joka ei tiennyt mistään muista aatteellisista harrastuksista
+kuin uskonnosta ja teologiasta. Mutta heti kun porvaristo oli
+kahdeksannellatoista vuosisadalla kyllin voimakas omaksumaan oman
+ideologiansa, se suoritti oman suuren ja lopullisen vallankumouksensa
+Ranskassa, vetoamalla puhtaasti juridisiin ja poliittisiin aatteisiin,
+ja näki vaivaa uskontoon nähden vain sikäli kuin se asettui sen tielle.
+Porvarillisen vallankumouksen mieleen ei milloinkaan juolahtanut
+perustaa uutta uskontoa vanhan tilalle; jokainen tietää mikä sekasotku
+tuli Robespierren yrityksestä.
+
+[Maximilies François Marie Isidore de Robespierre (1758—94), yksi
+Ranskan Suuren Vallankumouksen huomattavimpia merkkimiehiä, kuuluen
+n.k. Jakobiinien ryhmään, joiden toimesta hänet valittiin tasavallan
+Yhteishyvän valiokuntaan 1793, heinäk. 27 p., jossa hän sangen pian
+kohosi huomattavaan ja johtavaan asemaan. Toukokuulla 1794 sai hän
+tasavallan kommuunihallituksen ja konventin päätöksellään tunnustamaan
+Korkeimman Olennon olemassaolon, jolle hän määräsi toimeenpantavaksi
+mahtavat juhlallisuudet, juhlakulkueessa kulki Robespierre kaukana
+etunenässä yksikseen, tahtoen siten antaa ymmärtää itsensä olevan tuo
+korkein olento, tai ainakin sen korkein edustaja. Mutta nämä puuhat
+johtivat siihen, että Robespierre menetti päänsä mestauslavalla, 28 p.
+heinäk. samana vuonna jolloin juhlallisuudet toimeenpantiin. — Suom.
+muistutus.]
+
+Puhtaasti inhimillisten tunteiden mahdollisuus ihmisten keskisessä
+kanssakäymisessä nykyaikana tulee meidän nähdäksemme suuresti häirittyä
+yhteiskunnassa, missä luokkaennakkoluuloisuus ja luokkaylivalta on
+vallalla. Meidän ei siis tarvitse vaivata itseämme näiden tunnelmien
+toteuttamiseksi uuden uskonnon perustamisella. Ja aivan samalla
+tavalla kuin historioitsijat ovat peitelleet suurten historiallisten
+luokkataistelujen totuuksia, eritoten Saksassa, samalla tavalla
+suurten historiallisten luokkakamppailujen ymmärtämistä häiritään
+nykyisellä historian kirjoitustavalla, ilman että meidän tarvitsisi
+ryhtyä muuttelemaan näitä kamppailuja pelkiksi uskonnollisen historian
+lisäkkeiksi. Tämä seikka osoittaa sen ilmeisen tosiasian kuinka
+kaukana me olemme tänä päivänä Feuerbachista. Hänen mitä kauneimmat
+ylistysvirret rakkauden uudesta uskonnosta ovat nykyään sietämättömiä
+meille.
+
+Kristinusko, länsimaailman yleinen yksijumaluudelle perustuva
+uskonto oli ainoa mitä Feuerbach tutki lähemmin. Hän todistaa että
+kristinuskon jumala on ainoastaan mielikuvituksellinen heijastus
+ihmisen otaksumisista. Mutta että jumala itse on abstraktisuuden
+kehityksen pitkäaikainen tulos, korkein muoto aikaisemmista heimokunta-
+ja kansallisista jumalista. Ja myöskin että ihminen, jonka mielikuvitus
+tämä jumala on, ei ole todellinen ihminen, vaan samanlainen korkein
+muoto monista todellisista ihmisistä, abstraktinen ihminen, ja
+niin ollen ajatuksen luoma olento. Sama Feuerbach, joka teoksensa
+jokaisella sivulla saarnaa järkevyyttä, upoten konkreettisuuteen ja
+todellisuuteen, tulee täydellisesti abstraktiksi heti kun hän alkaa
+puhua jostain enemmästä paitsi varsinaisesta kanssakäynnistä ihmisten
+kesken.
+
+Tässä vuorovaikutuksessa ainoastaan toinen puoli näyttäytyy hänelle,
+nimittäin moraalinen, ja tässä esiintyy Feuerbachin hämmästyttävä
+tiedonpuute, verrattuna Hegeliin. Viimemainitun siveysoppi tai
+mieluummin moraalinen oppi on Oikeuden Filosofia: 1, Abstraktinen
+oikeus; 2, Moraali; 3, Moraalinen käytös, joka käsittää: perheen,
+porvariston, yhteiskunnan ja valtion. Vaikkakin muoto tässä on
+idealistinen, on sisältö realistinen. Laki, talous ja politiikka
+on tässä siveysopin rinnalla. Feuerbachilla taas päinvastoin. Hän
+on realistinen muotoon nähden; hän alkaa ihmisestä, mutta tällä
+keskustelulla ei ole ehdottomasti mitään tekemistä maailman kanssa,
+jossa hän elää, ja niin, ihmisen sijasta, abstraktinen ihminen saarnaa
+seremonioita uskonnonfilosofiasta. Tämä ihminen ei ole äidin poika;
+hän on kehittynyt yksijumaluuden uskontojen jumalasta. Hän ei elä
+todellisissa historiallisissa olosuhteissa eikä maailman historiassa.
+Hän joutuu suhteisiin muiden ihmisten kanssa, mutta kaikki nämä ovat
+yhtä abstrakteja kuin hän itsekin. "Uskonnon filosofiassa" meillä oli
+vielä miehiä ja naisia, mutta "siveysopissa" pieninkin eroavaisuus
+on hävinnyt. Silloin tällöin toistaa Feuerbach sellaiset väitteensä,
+kuten: "Ihminen ajattelee eri tavalla palatsissa kuin töllissä."
+"Silloin kun teillä ei ole mitään nälän ja kurjuuden poistamiseksi,
+teillä ei voi olla mitään moraalisuutta teidän päissänne, mielissänne
+eikä sydämissänne." "Politiikka täytyy olla uskontoa," jne. Mutta
+Feuerbach oli ehdottomasti kykenemätön selittämään näiden huomautusten
+merkitystä; ne pysyivät pelkkinä kirjallisina mielipideilmaisuina; ja
+yksimpä Starcke oli pakotettu myöntämään että poliittinen tiede oli
+ylitsepääsemätön haitta Feuerbachille, ja yhteiskuntatiede, sosiologia,
+oli hänelle terra incognita [Terra incognita — asia josta hän ei
+tiedä mitään. Tai kansankielellä sanottuna — pelkkää latinaa. — Suom.
+muistutus.].
+
+Hän näyttää yhtä vähän innostuneelta verrattuna Hegeliin, kun hän
+käsittelee antiteesiään hyvästä ja pahasta. "Joku luulee lausuvansa
+jotain suuremmoista", Hegel muistuttaa, "lausuessaan että ihmiskunta
+luonnostaan on hyvä, mutta silloin unohdetaan että joku lausuu jotain
+vieläkin suurempaa sanoessaan": "ihminen on luonnostaan paha!" Hegelin
+mukaan pahe on se muoto, jossa kehityksen mekaaninen voima ilmaisee
+itsensä, ja tosiaankin tähän sisältyy se kaksoisajatus, että jokainen
+uusi askel eteenpäin ilmenee hyökkäyksenä jotain pyhää vastaan, kapinaa
+vanhaa kuolevaa Vastaan, mutta tottumuksen, pyhityksen, olosuhteiden
+ja toiseltapuolen luokkavaistojen heräämisen kautta, ihmisen
+pahetaipumukset, halut ja valloituspyyteet tulevat historiallisen
+kehityksen vipusimiksi, josta esimerkiksi feodalismin ja porvariston
+historia antaa pettämättömiä todistuksia. Mutta Feuerbach ei vaivaa
+itseään moraalisten paheitten osuuden tutkimisella. Se on hedelmätön ja
+epämiellyttävä ala. Yksimpä hänen väitelmänsä, "Ihminen sellaisena kuin
+hän kohosi luonnosta, alkujaan oli pelkkä luontokappale eikä ihminen."
+"Ihminen on inhimillisen yhteiskunnan, kasvatuksen ja historian tuote."
+Yksimpä nämäkin selostukset hänen näkökannaltaan saavat jäädä kokonaan
+hedelmättömiksi.
+
+Meidän kannalta on Feuerbachin työ moraalin suhteen siis jotenkin
+ahdasmielistä. Pyrkimys onnellisuuteen on ihmisessä itsessään syntynyt
+halu ja niinmuodoin sen täytyy muodostua perusteeksi kaikelle
+moraalille. Mutta tämä onnekkuuden halu on rajoitettu kahdella tavalla;
+ensiksi, meidän toimintaamme luonnollisten tulosten kautta; mässäystä
+seuraa päänkipu, ylenmääräisen nautinnon seurauksena on sairaus;
+toiseksi onnekkuuspyrkimysten seurauksena yhteiskunnassa on — ellemme
+me ota toisten ihmisten samanlaisia onnellisuus haluja huomioon, että
+he asettuvat vastarintaan ja tekevät tyhjäksi meidän onnekkuutemme.
+Tästä seuraa, että voidaksemme menestyä onnellisuuspyrkimyksissämme,
+meidän toimintamme täytyy olla oikein arvioitu, ja toiselta puolen,
+meidän täytyy antaa toisille tilaisuus samanlaisten pyrkimysten
+toteuttamiseen. Käytännöllinen itsehallitsemiskyky itseemme ja
+rakkauteen nähden, aina, rakkauteen nähden, ollessamme kanssakäymisessä
+lähimmäistemme kanssa, ovat näinmuodoin perussäännöt Feuerbachin
+moraalille, josta kaikki muu johtuu, eikä Feuerbachin innostava aika,
+enempi kuin Strake'n ylistelyt voi peittää näiden kahden seikan
+laihuutta ja köyhyyttä. Onnekkuuden halu tyydyttää itseään sangen
+riippumattomasti, eikä suinkaan hyödyttääkseen jotakuta itseään, tai
+muita ihmisiä. Mutta se tarvitsee ulkonaista mailmaa — tyydyttääkseen
+itseään — siis toiminnan välineitä, toisen sukupuolen yksilön, kirjan,
+konventionin, väittelyaiheen, toimintaa, nämä tyydytyksen välineet ja
+aineet ovat käytännön ja työn välikappaleita. Feuerbachin moraalinen
+järjestelmä joko olettaa, että nämä tyydytyksen välineet ja aineet
+annetaan jokaiselle ihmiselle ikäänkuin itsestään, tai, koska hänen
+järjestelmänsä antaa hänelle ainoastaan sangen epäkäytännöllisen
+neuvon, hän olettaa etteivät ne ihmiset joilla ei näitä välineitä ole,
+ole niiden arvoisia. Ja tämän Feuerbach itse selvään osoittaa omilla
+voimakkailla sanoillaan, "Joka asuu palatsissa, ajattelee eri tavalla
+kuin se joka asuu töllissä." "Ihmisellä jolla nälän ja kurjuuden
+johdosta ei ole voimaa ruumiissaan, ei hänellä myöskään ole moraalista
+voimaa aivostossa, mielessä eikä sydämessä."
+
+Ovatko välikappaleet paremmat toisten ihmisten samanlaisiin onnekkuus
+taipumukseen verraten? Feuerbach esittää tämän väitelmän ehdottomana,
+kaikkina aikoina ja kaikkiin olosuhteisiin soveltuvana. Mutta onko
+se milloinkaan toteutunut? Oliko vanhalla ajalla milloinkaan orjan
+ja hänen herransa tai keskiajalla maaparonin ja maaorjan välillä
+kysettäkään tasa-arvoisesta onnekkuudesta? Eikö alistetun luokan
+onnekkuuspyrkimyksiä uhrattu vallassaolevan luokan onnellisuudelle,
+huolimatta kaikesta ja huolimatta laeista? — ja vaikkakin se oli
+epämoraalista, mutta siitä huolimatta oikeuksien tasa-arvoisuus
+tunnustetaan nykyisin — tunnustetaan ainoastaan sanoissa, sillä
+porvaristo taistelussaan feodalismia vastaan ja kapitalististen
+tuotantomuotojen puolesta, oli pakotettu hävittämään kaikki
+silloiset etuoikeudet, se on, persoonalliset ja luokkaetuoikeudet,
+ja myöntämään ensi kerran tasaiset oikeudet kaikille yksilöille,
+sen jälkeen myöskin valtiolliset oikeudet ja tasa-arvoisuuden lain
+edessä. Mutta onnellisuuspyrkimykset käsittävät ainoastaan vähäisen
+osan aatteellisista oikeuksista, ja perustuvat suurimmalta osalta
+aineellisille tyydytysvälineille, ja tässä suhteessa on otettava
+huomioon, että tasaisilla oikeuksilla varustettujen henkilöiden suuri
+enemmistö saa ainoastaan niukan toimeentulon, eikä niin ollen voi pitää
+tasa-arvoisia oikeuksia onnekkuuteen pyrkimisessä tuskin parempana kuin
+orjat tai maaorjat voivat tehdä. Ja olemmeko me paremmassa asemassa
+henkiseen onnellisuuteen nähden — se on, valistus välineisiin nähden?
+Vai eikö Sadowan [Sadowa (Königgrätz) Böömissä, Adlerin ja Elben jokien
+yhtymäkohdassa oleva kaupunki. — Suom. muistutus.] koulumestari ole
+pelkkä ihmishaamu?
+
+Edelleen, Feuerbachin siveysopin mukaan on pörssi moraalisuuden
+korkein temppeli, edellyttäen että henkilö keinottelee siellä
+oikeudenmukaisesti. Jos siis minun onnellisuustaipumukseni johtaa
+minut pörssiin, ja minä, liikealallani, hoidan asiani niin hyvin,
+että minä otan ainoastaan sen mikä on minulle kuuluvaa eikä millään
+tavoin minulle vahingollista, se on, jos minä voitan jatkuvasti, on
+Feuerbachin moraalikaava toteutettu. Tällä tavoin menetellen minä en
+häiritse kenenkään toisten samanlaisia onnekkuus taipumuksia, nähkääs
+kun joku toinen henkilö menee pörssiin samalla tavalla vapaaehtoisesti
+kuin minäkin, ja hänen liiketoimiensa päätyttyä, kumpikin löytää
+toisissaan onnekkuutensa taipumusten tyydytyksen, joka on ainoastaan
+rakkauden toteuttamista, joka täten on käytännöllisesti toteutettu.
+Ja jos minä täytän tehtäväni suuremmalla huolella ja niinmuodoin
+suuremmalla menestyksellä, olen minä täyttänyt tehokkaammin Feuerbachin
+moraalin filosofian maximin ja minä tulen rikkaaksi mieheksi tässä
+liikkeessä. Toisin sanoen, Feuerbachin moraali muodostuu oivaksi
+aseeksi tämänpäiväiselle kapitalistiselle järjestelmälle, niin vähän
+kuin hän ehkä sitä toivoi tai ajatteli sen siksi muodostuvan.
+
+Mutta rakkaus, niin rakkaus, on erikoisesti ja ikuisesti
+yliluonnollinen jumala joka, Feuerbachin mukaan voittaa
+kaikki käytännöllisen elämän vaikeudet, ja vieläpä tekee sen
+yhteiskunnassa, joka on jakautunut kahteen luokkaan, joiden edut
+ovat jyrkästi toisilleen vastakkaiset. Täten viimeinenkin jyvänen
+vallankumouksellisesta piirteestä häviää hänen filosofiastaan ja
+jälelle jää vanha tyhjä uskonnollinen fraasi — "rakastakaa toinen
+toistanne" — langetkaa toinen toistenne syliin, riippumatta mistään
+sukupuoliseikoista tai yhteiskunnallisesta asemasta — yleinen
+anteeksianto -juopumus.
+
+Lyhyesti sanottuna, Feuerbachin moraalinen teoria osoittautui olevan
+sama kuin kaikkien hänen edeltäjäinsä. Se on kaikkien aikojen
+sekasotku, soveltuva kaikille ihmisille ja kaikkiin olosuhteisiin,
+mutta ei sovellu tällaisena mihinkään aikakauteen eikä mihinkään
+oloihin, ja käytännölliseen elämään nähden se on yhtä voimaton kuin
+Kantin "Kategorinen imperatiivi." Tosiasiassa jokaisella luokalla,
+jokaisella ammatilla on oma moraalinen järjestelmänsä, ja yksimpä sekin
+murtuu milloin se voidaan välttää ilman rangaistusta; ja rakkaus, jonka
+pitäisi yhdistää kaikki ihmiset, ilmenee nykyään sotina, väittelyinä,
+oikeusjuttuina, kotimaisina kuohumisina ja mahdollisimman laajalle
+ulottavana toinen toistensa riistämisenä.
+
+Mutta miten on mahdollista, että se tavaton voimakkuus mikä ilmeni
+aluksi Feuerbachin opeissa, kääntyi niin hyödyttömäksi itse
+Feuerbachille? Yksinkertaisesti siksi, ettei Feuerbach kyennyt
+täyttämään ulospääsytietä abstraktisuudesta — jota hän niin
+kuolettavasti vihasi — elävään todellisuuteen. Hän ei omannut taitoa
+selostaa meille millään tavalla todellista luontoa ja todellista
+ihmistä. Me voimme löytää eläviä ihmisiä Feuerbachin abstraktisista
+ihmisistä, jos me otamme ne aktiivisina historiallisina tekijöinä.
+Feuerbach kompastui tähän, siksi vuosi 1848, jota hän ei käsittänyt,
+merkitsi hänelle yksinkertaisesti lopullista eroamista todellisesta
+maailmasta, vetäytymistä yksinäisyyteen. Saksalaisten olosuhteiden
+päälle lankeaa suureksi osaksi se rikos, että hän joutui kärsimään
+suurta puutetta.
+
+Mutta ne askeleet, joita Feuerbach ei kyennyt ottamaan, tulivat
+otetuiksi myöhemmin. Abstraktisuudessa olevan ihmisen määrätyn
+uskonnollisen käsityksen sijalle, joka oli Feuerbachin uskonnon siemen,
+tuli asettaa elävien ihmisten tietoisuus ja heidän historiallinen
+kehityksensä. Tämä Feuerbachin näkökantaa kauemmaksi ulottuva käsitys
+julkaistiin Marxin teoksessa "Pyhä perhe" 1845.
+
+
+
+IV.
+
+
+Strauss, Bauer, Stirner, Feuerbach, nämä olivat hegeliläisen filosofian
+pienempiä edustajia, sikäli kuin eivät he poikenneet filosofian alalta.
+Strauss on, teostensa "Jeesuksen elämä" ja "Dogmaatikot" lisäksi,
+kirjoittanut ainoastaan filosofisia ja uskonnollisia teoksia Renan
+malliin; Bauer työskenteli jonkin verran pelkästään alkukristillisyyden
+alalla, mutta siinä suhteessa tunnustusta ansaitsevalla tavalla;
+Stirner pysyi "ajattelemattomana kuohahtajana" senkin jälkeen kuin
+Bakunin oli sekottanut hänet Proudhonin kanssa ja luonut yhdistyneen
+"anarkismin." Feuerbach yksin jäi merkitykselliseksi filosofina; mutta
+filosofia ei jäänyt hänelle korkeimmaksi kaikkia muita tieteitä,
+kermaksi kaikista tieteistä sivuuttamattomana rajattomuudessaan,
+koskemattomana pyhänä tekijänä, hän on filosofian kokonaistuttaja;
+toinen puoli hänestä oli materialisti ja toinen idealisti. Hän ei
+ollut Hegelin vastuunalainen kritiikki, vaan hän yksinkertaisesti
+viskasi Hegelin summassa syrjään, samalla kun hän itse hegeliläisen
+järjestelmän monitieteelliseen rikkauteen verrattuna ei kyennyt luomaan
+mitään positiivisesti arvokasta, lukuunottamatta hänen korkeaäänistä
+rakkauden uskontoaan ja laihaa mitätöntä siveysjärjestelmäänsä.
+
+Mutta hegeliläisen koulukunnan hajotessa syntyi toinen, ainoa
+koulukunta, joka on tuottanut todellisia hedelmiä ja tämä koulukunta
+liittyy Marxin nimeen (Minulle on sangen vaikeaa antaa personallista
+selitystä tässä kohden. Ihmiset ovat nimittäin viime aikoina kertoneet
+minun osuudesta tämän teorian kehittämisessä, joten minä tuskin voin
+olla lausumatta muutamaa sanaa tämän johdosta. Minä en voi kieltää,
+etteikö minulla olisi ollut neljänkymmenenvuotisessa yhteistyössä
+Marxin kanssa, vissiä itsenäistä osaa, ei ainoastaan pohjaperusteitten
+laskemisessa mutta myöskin teorian kehittämisessä. Mutta suurin osa
+johtavista ajatuksista, eritoten taloustieteen alalla ja sen lopulliset
+terävät väitelmät, kuuluvat Marxille. Sen mitä minä olen suorittanut,
+Marx olisi aivan hyvin voinut suorittaa ilman minua, lukuunottamatta
+paria erikoista soveltamista. Mutta mitä Marx on tälle teorialle
+antanut, en minä olisi voinut niinkään helposti antaa. Marx seisoi
+ylempänä, näki kauemmaksi, otti laajemman, selvemmän pikaisemman
+huomion kuin kukaan meistä. Marx oli todellinen nero, me muut parhaassa
+tapauksessa hänen oppipoikiaan. Ilman häntä ei se teoria, mikä
+tunnetaan marxilaisuuden nimellä, olisi sitä mitä se on tänä päivänä,
+kaukana siitä. Siksi se kantaakin hänen nimeään.).
+
+Tässä tapauksessa eroaminen hegeliläisestä filosofiasta tapahtui
+materialistiseen maailmankatsomukseen palaamisella, se on, päätöksellä
+syventyä perinpohjaisesti varsinaiseen maailmaan — luontoon ja
+historiaan — sellaisena kuin se esittää itsensä jokaiselle meistä,
+ilman mitään ennakkoluuloista idealistista mieletöntä sekaantumista; se
+merkitsee säälimättömästi kaikkien ennakolta määrättyjen idealististen
+mielijohteitten uhraamista, jotka eivät sopeutuneet käytännöllisesti
+löydettyjen tosiasiain kanssa niiden keskinäisiin suhteisiin, kaikkea
+tarkastettiin ilman mitään harhanäkyjä. Ja materialismi yleensä ei
+vaadikaan enempää.
+
+Nyt ensi kerran materialistisen filosofian historiassa, tehtiin
+vilpitön yritys ohjata sen tulokset kaikkiin niihin kysymyksiin, jotka
+heräsivät tietoisuuden helmassa, tai ainakin sen luonteenominaisimpiin
+piirteisiin nähden.
+
+Hegeliä ei yksinkertaisesti työnnetty syrjään, päinvastoin marxilainen
+koulukunta liittyi hänen vallankumoukselliseen puoleensa, omaksuen
+hänen dialektiisen metoodinsa. Mutta tämä metodi ei kyennyt
+palvelemaan marxilaisuutta hegeliläisessä muodossaan. Hegelin
+mukaan dialektiikka on aatteen itsekehitys. Absoluuttinen aate ei
+ainoastaan ollut olemassa iankaikkisuudesta, mutta se oli koko
+olevan maailman sielu. Se kehittyy itsestään omaksi itsekseen
+kautta kaikkien alkuvaiheiden, joita käsitellään yleispiirteisesti
+"Logiikka" teoksensa, ja jotka on kaikki sisällytetty siihen. Sitten
+se astuu ulos nahoistaan, muuttaen itseään luonnon mukana, jossa
+se, ilman itsetietoisuutta, verhottuna luonnon välttämättömyydeksi,
+käy läpi uuden kehityksen, ja lopuksi, ihmisessä itsessään, tulee
+itsetietoiseksi. Tämä itsetietoisuus ponnistelee eteenpäin aineen
+alemmista muodoista alati korkeampiin muotoihin, kunnes Absoluuttinen
+Aate jälleen havaitaan hegeliläisessä filosofiassa. Hegelin mukaan
+dialektinen kehitys luonnossa ja historiassa, se on, syysuhteellinen
+yhtenäinen kehitys alhaisemmasta muodosta korkeampiin, huolimatta
+kaikista sivuliikkeistä ja tilapäisistä taka-askeleista, on
+ainoastaan kirjapaino jäljennös ijäisyydestä kehittyneen Aatteen
+itsekehityksestä, jota ei kukaan tunne, mutta ollen itsenäinen
+kaikesta inhimillisen aivoston ajatuksesta. Tämä sekasotku-ideologia
+täytyi työntää syrjään. Me käsittelimme aatteita i materialistisina,
+kuvina todellisista esineistä, sen sijaan että olisimme käsitelleet
+todellisia esineitä kuvina tästä tai tuosta Absoluuttisen Aatteen
+kehitysvaiheesta. Tämän perusteella dialektiikka alennettiin
+tietoisuudeksi maailmankaikkeudellisten lakien liikkeistä — niin koko
+maailmaa koskevissa asioissa kuin ihmisen ajatuksissakin — nämä kaksi
+lakijärjestelmää ollen samanmukaisia sikäli kuin ne koskevat ainetta,
+mutta eroavat selityksensä suhteen, koska ihmisen järki voi käyttää
+niitä tietoisesti, kun taas luonnossa, ja tähän asti inhimillisessä
+historiassa, ne enimmäkseen ovat toimineet itsekseen, tiedottomasti,
+ulkonaisen välttämättömyyden pakottamina, lakkaamattoman sarjan,
+ilmeisten sattumien lävitse. Tässä dialektinen Aate itse tuli pelkäksi
+heijastukseksi todellisen maailman dialektisesta kehityksestä, ja
+näinmuodoin Hegelin dialektiikka tuli käännetyksi ylösalaisin,
+tai mieluummin sanoen, se asetettiin seisomaan jaloillaan eikä
+päällään, kuten se oli seisonut tähän asti. Ja tätä materialistista
+dialektiikkaa, joka sen jälkeen muodostui meidän parhaaksi
+työvälineeksemme ja terävimmäksi aseeksemme, emme me yksin löytäneet,
+vaan myöskin saksalainen työmies, Joseph Dietzgen huomattavalla tavalla
+ja riippumatta meistä.
+
+[Joseph Dietzgen, saksalainen nahkuri, oleskeli Yhdysvalloissa kahteen
+kertaan, kirjoittanut useita huomattavia filosofisia teoksia, joista
+m.m. Chicagossa Charles Kerr & Co:n kustannuksella ilmestynyt "Positive
+Outcome of Philosophy" ja "Philosophical Essays", oli myöskin kuuluisan
+Haymarketin verilöylyn aikana 1888 Chicagossa ilmestyvän saksalaisen
+sosialistilehden toimittajana, johon toimeen hän tarjoutui, kun kukaan
+ei aikonut uskaltaa ottaa tointa vastaan vallitsevan luokan ankarien
+vainojen takia. — Suom. muistutus.]
+
+Mutta juuri tässä kohden Hegelin filosofian vallankumouksellinen puoli
+jälleen omaksuttiin ja samalla kertaa vapautettiin se idealistisista
+sukelluksista, joiden kautta Hegel oli häirinnyt sen pääsemistä
+välttämättömiin tuloksiin. Suuressa perusajatuksessa, nimittäin,
+ettei maailmaa ole käsitettävä valmiista esineistä muodostuneeksi
+kokonaisuudeksi, vaan kehitykselliseksi kokonaisuudeksi, jossa
+näennäisesti pysyväiset esineet ei vähemmän kuin ajatuskuvat
+aivostossa — aate, synnyttävät särkymättömän olemassaoloon tulemisen
+ja häviämisen ketjun, jossa kaikenlaisten näennäisten tapaturmien
+kautta, ja huolimatta kaikista tilapäisistä taka-askeleista, kehitys
+kulkee edistyskulkuaan — tämä suuri perusajatus on, varsinkin Hegelin
+aikakauden jälkeen, siinä määrin vallinnut ihmisjoukkojen ajatuksia,
+että sitä yleisesti puhuen, ei nyt tuskin enään kielletä. Mutta
+tunnustaa sen yksityiskohdat ja soveltaa se todellisuudessa kaikkiin
+niihin olomuotoihin, jotka tulevat tarkastuksen alaisiksi, on kaksi
+eri asiaa. Mutta se joka horjumattomasti jatkaa tutkimuksiaan tältä
+historialliselta näkökannalta, myöskin joutuu asettamaan sulun heti
+ja ainiaaksi vaatimuksille lopullisista ratkaisuista ja ikuisesta
+totuudesta; sen täytyy tulla vakuutetuksi saavutetun tietoisuuden
+välttämättömistä rajoituksista, tämän ajatuksen mielikuvituksellisesta
+luonteesta, joka johtuu niistä olosuhteista, joissa se ajatus on
+syntynyt. Se joka tämän teorian omaa, ei voi myöskään enään painostaa
+vanhojen metafyysikkojen pauhaamista mitättömistä antiteeseistä
+totuudesta ja valheesta, hyvästä ja pahasta, samanlaisesta ja
+erilaisesta, välttämättömästä ja satunnaisesta; sillä tämän teorian
+omaaja tietää, että näillä antiteeseillä on ainoastaan suhteellinen
+merkityksensä, että sillä mikä tunnustetaan totuudeksi nyt, on
+salattu ja myöhemmin on sille ilmenevä valheellinen puolensa, juuri
+samoin kuin on nyt valheeksi tunnustetulla totuudellinen puolensa,
+jonka ominaisuuden nojalla se voi myöhemmin esiintyä totuutena; että
+niinkutsuttu välttämättömyys on muodostunut pelkästi satunnaisesta,
+ja että tunnustettu sattuma on muoto, jonka takana välttämättömyys
+piileksii j.n.e.
+
+Vanhoilla tutkimus- ja ajatusmetodeilla, joita Hegel kutsuu
+metafyysillisiksi, jotka etupäässä kiinnittivät itsensä esineiden
+tutkimiseen sellaisina kuin ne olivat ja ilmenivät laadultaan, josta
+menetelmästä vieläkin on merkkejä ihmisten päissä, oli siihen aikaan
+suuri historiallinen oikeutuksensa. Oli ensin tutkittava esineitä
+ennen kuin voitiin tutkia niiden kehitysvaiheita; ihmisen täytyi ensin
+tietää mitä ensin oli ennen kuin hän voi tutkia siinä tapahtuneita
+aikaisempia muutoksia. Ja näin oli laita luonnontieteenkin. Vanha
+metafysiikka, joka käsitti esineitä paikallaan pysyvinä, johtui
+filosofiasta, joka tutki kuolleita ja eläviä sellaisina esineinä,
+joita pidettiin seisovina. Mutta sen jälkeen kuin tämä tutkimus
+oli ulotettu niin pitkälle, että ratkaiseva askel oli mahdollinen,
+nimittäin systemaattinen noiden esineiden aikaisemmin tapahtuneiden
+muutosten tutkiminen, syventymällä luontoon itseensä, silloin sai
+vanha metafysiikka kuoleman iskun filosofian helmassa, ja, jos kerran
+tiede edellisen vuosisadan lopussa oli pääasiallisesti tietoisuuden
+keräämistä varten, tiedettä jokapäiväisistä esineistä, on tiede meidän
+päivinämme pääasiallisesti tietoisuuden järjestämistä, tiedettä
+tapahtuneista muutoksista, esineiden alkuperästä ja kehityksestä ja
+niiden keskinäisestä yhteydestä, joka sitoo nämä muutokset luonnossa
+yhdeksi suureksi kokonaisuudeksi. Fysiologia, joka tutkii kasvien ja
+eläinten varhaisempien muotojen organismia; sikiökehitysoppi, joka
+käsittelee alkuperäisen organismin kehitystä itiöstä täydellisyyteensä;
+geologia, joka tutkii asteettaista maanpinnan muodostamista — kaikki
+nämä tieteen haarat ovat meidän vuosisatamme tuloksia.
+
+Mutta ennen kaikkea, on kolme suurta löytöä, jotka ovat tehneet
+mahdolliseksi meidän tietoisuutemme luonnon kehitysvaiheiden
+keskinäisestä yhtenäisyydestä mennä eteenpäin harppa-askeleilla.
+Ensinnäkin, solun keksiminen, yksikkö kertaantumisesta ja
+jakaantumisesta, josta kasvi- ja eläin-aine kehittyy siten, että
+sen kasvussa ja kehityksessä huomataan, ei ainoastaan korkeimpien
+organismien kaikki korkeimmat luokat seuraavan maailmankaikkeudellista
+lakia, mutta tämä sama maailmankaikkeudellisen lain mukainen kehitys
+huomataan toteutuvan solun jakautumisessa, jonka jakaantumiskehityksen
+kautta myöskin organismit kykenevät muuttamaan muotoaan ja siten
+lisäämään itsenäistä kehitystä. Toiseksi, ne energian muodonmuutokset,
+jotka ovat osoittaneet meille, että kaikki niinkutsutut todelliset
+voimat epäorgaanisessa luonnossa, mekaaniset voimat ja niiden
+täydentäjät, niinkutsutut potentiaaliset energiat, lämpö, valosäteily
+(valo, valosäde-lämpö), sähkö, magnetismi, kemiallinen energia, ovat
+eri muotoja maailmankaikkeudellisesta liikunnasta, joka visseissä
+olosuhteissa siirtyy toisesta toiseen, niin että niiden sijalle, jotka
+katoavat, vissi määrä toisia ilmestyy, niin että koko luonnon liikunta
+rajottuu tähän ikuiseen yhdestä toiseen siirtymisprosessiin. Lopuksi,
+Darwin kehitti ensimmäisen loogillisen todistuksen, että luonnon
+orgaaniset tulokset meihin nähden, ihminen niihin luettuna, ovat
+seurauksia pitkäaikaisesta kehityksellisestä edistymisestä muutamasta
+alkuperäisestä yksinkertaisesta solusta, ja nämä taas, kemiallisen
+prosessin vaikutuksesta ovat kehittyneet protoplasmasta [Protoplasma
+Alkuaine Suom. muistutus.] eli munanvalkuais-aineesta.
+
+Kiitos näille kolmelle suurelle löydölle ja niistä seuraukselliselle
+tieteen voimakkaalle edistymiselle, me nyt olemme saavuttaneet
+sen kohdan, jossa me voimme löytää yhtymäkohdat luonnossa
+tapahtuneille muutoksille, ei ainoastaan erikoistapauksissa, mutta
+myöskin näiden erikoistapausten suhteessa kokonaisuuteen, ja siten
+me voimme antaa näköalakuvan luonnon keskinäisestä yhteydestä
+suunnilleen tieteellisessä muodossa, niiden tosiasiain nojalla,
+jotka kokemusperäinen tieto itse on meille osoittanut. Tämän
+täydellisen kuvan valmistaminen oli aikaisemmin niinkutsutun luonnon
+filosofian tehtävä. Se voi tämän suorittaa ainoastaan asettamalla
+tuntemattomien keskinäisten yhdyssiteitten tilalle aatteellisia
+ja mielikuvituksellisia otaksumia, täyttämällä puuttuvat lenkit
+mielikuvituksilla ja silloittamalla kuilut tyhjillä olettamuksilla.
+Sillä oli monta iloista ajatusta näissä (mielikuvituksen) siirroissa,
+se aavisti monta myöhempää löytöä, mutta se aiheutti myöskin
+jälkeentuleville huomattavasti mielettömyyksiä, jotka ovat haitanneet
+tähän päivään asti, mutta joka ei ole muuten voinut olla. Nykyisin, kun
+luonnon tutkimusten tulokset tarvitsevat enään ainoastaan dialektista
+täydentämistä, se on, niiden keskinäisen läheisen yhteenliittymisen
+kannalta, päästäksemme meidän ajallemme tyydyttävään luonnon
+järjestelmään, jolloin keskinäisyhtenäisyyden dialektinen piirre tunkee
+itsensä kokemusperäisten tiedemiesten metafyysillisesti harjoitettuihin
+aivostoihin, vastoin heidän tahtoaan; nykyisin on luonnonfilosofia
+lopullisesti pantu pois viralta, jokainen yritys sen uudelleen
+palauttamiseksi, olisi turha vaiva, se olisi vain taka-askel.
+
+Mutta mikä pitää paikkansa luontoon nähden, joka on täten tunnustettu
+historiallisessa prosessissa, pitää myöskin paikkansa yhteiskunnan
+historiaan nähden kaikissa sen eri haaroissa, ja kokonaisuudessaan
+kaikkiin niihin tieteisiin nähden, jotka käsittelevät inhimillisiä
+ja jumaluusopillisia asioita. Tämän mukaan myöskin oikeustieteen,
+historian, uskonnon j.n.e. filosofia sisältyy tähän, että tapahtumain
+todellisten keskinäisten yhtenäisyyksien sijaan, asetettiin filosofin
+mielessä alkunsa saanut ajatus; että historia, sekä kokonaisuudessaan
+että eri osissaan, muodostui asteittaisesta aatteiden käsittämisestä,
+mutta luonnollisestikin aina filosofin omista matalista aatteista.
+
+Tähänastinen historia, epätietoisesti mutta välttämättömästi pyrkii
+vissiin ennalta määrättyyn, suunniteltuun, ihanteelliseen päämäärään,
+kuten esim. Hegelin laita oli, kohti hänen Absoluuttisen Aatteensa
+toteuttamista, ja vääjäämättömästi kallistuessa tätä Absoluuttista
+Aatetta kohti, muodosti historiallisten tosiasiain sisäisen
+yhtenäisyyden. Todellisen ja tähän asti tuntemattoman keskinäisen
+yhteyden sijalle, ihminen asetti uuden salaperäisen päämäärän,
+tiedottoman tai asteittaisen tietoisuuteen tulemisen. Ja niinmuodoin
+oli välttämätöntä tässä tapauksessa, samoin kuin luonnonkin suhteen,
+työntää syrjään nämä keinotekoiset keskinäiset yhteydet, keksimällä
+todellinen, tehtävä joka lopulta kruunautui maailmankaikkeudellisten
+lakien edistyskulun keksimisellä, jotka lait ovat osottautuneet
+inhimillisen yhteiskunnan historian määrääviksi tekijöiksi.
+
+Yhteiskunnan laajentamishistoria näyttää kuitenkin aivan erilaiselta
+kuin luonnonhistoria. Luonnossa on löydettävissä, mikäli jätämme
+pois näköpiiristä ihmisen taantumuksen luonnon suhteen — pelkät
+tiedottomat sokeat tekijät jotka vaikuttavat toinen toisiinsa, ja
+niiden keskinäisissä vuorovaikutuksessa maailmankaikkeudellinen laki
+toteuttaa itsensä. Kaikesta tästä johtuu, huolimatta lukemattomista
+ilmeisistä tapaturmista, jotka ilmenevät pinnalla, tai näiden
+tapaturmien sattumuksista lopullisina tuloksina, ettei mitään sellaista
+tapahdu, joka johtaisi toivottuun tietoiseen tulokseen. Päinvastoin
+taas yhteiskunnan historiassa, yksin pelkät näyttelijätkin ovat
+kaikki tietoisuudella varustetut; ne ovat tekijöitä, varustettuna
+harkitsemiskyvyllä ja innostuksella, ihmisiä, jotka työskentelevät
+määrätyn päämäärän saavuttamiseksi; mitään ei ilmene niiden toiminnassa
+ilman määrättyä tarkoitusta, ilman toivottua päämäärää. Mutta tämä
+erotus, niin tärkeä kuin se onkin historiallisen tarkastuksen
+kannalta, erikoisesti sen yksityiset vaihekaudet ja tapahtumat, ei
+voi tehdä eroitusta siihen tosiasiaan nähden, että historian kulku
+on maailmankaikkeudellisten sisäisten lakien hallitsema. Ja tässä
+myöskin, huolimatta kaikkien yksilöryhmien erilaisista toivomuksista,
+monissa tapauksissa tapaturmat ovat pintailmiöinä. Se mitä toivotaan,
+sangen harvoin tapahtuu. Useimmissa tapauksissa lukuisat toivotut
+päämäärät joutuvat ristiriitaan ja häiritsevät toinen toistaan, ja
+silloin joko nämä päämäärät ovat kykenemättömiä toteutumaan tai
+sitten niiden välikappaleet ovat tehottomia. Täten lukemattomat
+yksilöllisten toivomusten ja yksilöllisten toimenpiteiden taistelut
+historian helmassa johtavat lopputulokseen, joka kokonaisuudessaan on
+samanmukainen sille mitä tapahtuu luonnon helmassa, joka on määrättyä
+tarkoitusta vailla. Toimenpiteiden päämäärät ovat tarkoituksellisia,
+mutta seuraukset jotka johtuvat näistä toimenpiteistä eivät ole
+tarkoituksellisia, tai sikäli kuin ne näyttävät täyttävän toivomukset,
+lopullisissa tuloksissaan ne ovat kokonaan eroavia toivotuista
+päämääristä. Historialliset tapahtumat näinmuodoin kokonaisuudessaan
+osoittautuvat sattuman ohjaamiksi. Mutta yksimpä siinäkin, missä
+pintapuolisesti tarkastaessa näyttää tapaturma näyttelevän osaansa, se
+on, itseasiassa, kiinteästi näkymättömien, sisäisten lakien hallitsema,
+ja ainoaksi kysymykseksi näin ollen jää, tulla tuntemaan nämä lait.
+
+Ihmiset luovat oman historiansa siten, että jokainen seuraa omia
+toivottuja pyrkimyksiään, riippumattomana seurauksista, ja näiden
+monien toivomusten seuraukset toimivat eri suuntiin, ja niiden
+moninaisuuden vaikutukset mailmaan muodostavat historian. Se riippuu
+näin ollen yksilöiden suuren enemmistön pyrkimyksistä. Tahdon määrää
+halu tai mielikuvitus, mutta välineet joihin halu tai mielihalu
+heti kohdistuvat, saattavat olla sangen erilaisia. Joskus se voi
+kohdistua ulkonaisiin olosuhteisiin, joskus aatteellisiin motiiveihin,
+kunniantuntoon, totuuden ja oikeuden harrastukseen, persoonalliseen
+vihaan, tai sitten kaikenlaisiin puhtaasti yksilöllisiin erilaisiin
+ajatuksiin. Mutta toiseltapuolen me olemme nähneet historiasta,
+että monien yksilöjen tahdot saavat aikaan vaikutuksia, suurimmaksi
+osaksi vastakkaisia heidän toivomuksilleen — usein, itseasiassa
+sangen vastakkaisia — heidän toimintamotiiveillaan samalla tavalla,
+on ainoastaan pintapuolinen merkitys yleisiin tuloksiin nähden.
+Toiseltapuolen herää kysymys: Mitkä pakottavat voimat ovat näiden
+toimintamotiivien takana; mitä ovat ne historialliset syyt, jotka
+muuntavat itsensä toimintamotiiveiksi ihmisten aivostoissa?
+
+Vanha materialismi ei milloinkaan asettanut tätä kysymystä itselleen.
+Sen historian filosofia, sikäli kuin sillä sitä voidaan erikoisesti
+sanoa olleen, on siis ehdottomasti sekava; se arvostelee kaikkea
+pikaisten motiivien näkökannalta; se jakaa historialliset tekijät
+hyvään ja pahaan, ja huomaa lopputuloksena, että hyvä joutuu aina
+syrjäytetyksi ja paha suoriutuu voitokkaana, josta sitten johtuu, että
+sikäli kuin on kyseessä vanha materialismi, ettei siinä löydy mitään
+rakentavaa, jota voitaisiin käyttää hyödyksi historian tutkimisessa, ja
+meille vanha materialismi historiaan nähden osottautuu valheelliseksi,
+koska se tahtoo määritellä aatteelliset mielijohteet lopullisiksi,
+sen sijaan että se osottaisi mitä niiden takana on, sitä mikä on
+näiden mielijohteiden kiihotin. Syynä loogillisen johtopäätöksen
+epäonnistumiseen ei ole se seikka, ettei aatteellisia mielijohteita
+tunneta, vaan siinä, ettei tarkasteta niiden toiminnan etäisimpiä
+syitä. Filosofian historia sen sijaan, erikoisesti sikäli kuin
+Hegel sitä tulkitsi, käsitti, että näennäiset, eikä edes ihmisen
+todellisetkaan motiivit, jotka ilmenevät historiassa, ole millään
+muotoa lopullisia tekijöitä historiallisissa tapahtumissa, ja että
+näiden tapahtumien takana on muita liikuntavoimia, jotka täytyy löytää;
+mutta se ei etsi näitä voimia historiasta itsestään, vaan importeeraa
+ne enimmäkseen sen ulkopuolelta, filosofisesta ideologiasta historiaan.
+Sen sijaan, että Hegel esim. selostaisi vanhan Kreikan historiaa sen
+omien sisäisten yhdistelmäin kannalta, hän selittää ikäänkuin se
+olisi ollut työskentelyä jonkun kauniin yksilöllisyyden, taideluomien
+ja sellaisten hyväksi. Hän puhuu paljon vanhasta Kreikasta mikä on
+kaunista ja ylevää, mutta hän ei poista sillä meidän tämänpäiväistä
+tyytymättömyyttämme, sillä sellainen selostus on pelkkää fraseologiaa.
+
+Jos me näin ollen aiomme löytää ne pakottavat voimat, jotka tunnettuina
+tai tuntemattomina, ja suurimmalta osalta tuntemattomina, seisovat
+taustalla historiallisina tekijöinä ja muodostavat historian todelliset
+lopulliset voimat, me emme voi ottaa huomioon niinkään paljon joidenkin
+yksilöiden motiiveja, olivatpa ne kuinka valtavia tahansa, kuin niitä,
+jotka panevat liikkeelle suuret joukot, kokonaiset kansakunnat, kuin
+myöskin jokaisen kansakunnan kokonaiset luokat, ja tämä myöskin, ei
+äkillisesti leimahtavissa ja nopeasti sammuvissa liekeissä, vaan
+tuskallisen toiminnan kautta kirkastuu suurena historiallisena
+muutoksena. On löydettävä ne suuret pakottavat voimat jotka vaikuttavat
+toimivien joukkojen ja heidän johtajainsa, aivoissa n.k. suurmiesten
+aivoissa, joko tietoisina motiiveina, selvinä tai epäselvinä,
+suoranaisesti tai ideologisesti tai vaikkapa vain yliluonnollisessa
+muodossa, se on ainoa menettely, joka voi saattaa meidät sen lain
+jäljille, mikä kontrolloi koko historiaa, samoin kuin erilaisia
+aikakausiakin ja kaikkia yksityisiä maita. Kaikki mikä panee ihmiset
+liikkeelle, täytyy ensin vaikuttaa heidän aivostoonsa, mutta se voima
+joka toimii heidän aivoissaan, riippuu sangen suuresti olosuhteista.
+Työläiset eivät millään muotoa ole tulleet ystävällisiksi kapitalistien
+konevoimalle, vaikkakaan he eivät enään murskaa koneita kappaleiksi
+kuten he tekivät 1848 Rheinin maakunnassa.
+
+Mutta samalla kun näiden historian pakottavien voimien keksiminen on
+ollut täysin mahdottomuus kaikille muille aikakausille, kun otetaan
+lukuun niiden monimutkainen keskinäinen yhteys, on meidän aikakautemme
+siinä määrin yksinkertaistuttanut nämä suhteet, että nämä kysymykset
+voidaan nyt ratkaista. Sitten suurteollisuuden alkamisen, varsinkin
+sitten 1815 Euroopan rauhan solmimisen, ei ole ollut enään Englannissa
+kellekään salaisuus, että koko poliittinen taistelu on ollut taistelua
+ylivallasta kahden luokan välillä nimittäin maanomistaja-aristokratian
+ja keskiluokan välillä. Ranskassa, bourbonien jälleen valtaan
+päästyään sama tilanne on vallinnut; historiankirjoittajat Thierry'stä
+Guizot'iin, Mignet'tiin ja varsinkin Thiersiin, tunnustavat sen
+olevan avaimen Ranskan historian ymmärtämiseen, eritoten sitten
+keskiajan. Ja sitten vuoden 1830 työväenluokka — proletariaatti — on
+tunnustettu kolmanneksi kilpailijaksi herruudesta kummassakin maassa.
+Olosuhteet ovat käyneet niin yksinkertaisiksi ymmärtää, että ken
+tahansa voi sulkea silmänsä ja sittenkin nähdä näiden kolmen luokan
+välisen taistelua ja niiden etujen ristiriitaisuuden olevan uudenajan
+historian liikkeellepanevina voimina, ainakin näissä kahdessa enimmän
+edistyneessä maassa.
+
+Mutta kuinka nämä luokat ilmestyivät olemassaoloon? Jos suurilla
+vanhanaikaisilla feodaalisilla maaomaisuuksilla on alkunsa
+poliittisissa syissä, alueitten pakollisen valtaamisen muodossa, tätä
+samaa tekijää ei voida sovelluttaa porvaristoon eikä proletariaattiin.
+Näiden kahden suuren taloudellisen luokan alkuperä ja kehittyminen
+on selvästi ja ilmeisesti selitettävissä taloudellisissa syissä.
+Ja yhtä selvää on myöskin, että maanomistajaluokan ja porvariston,
+eikä vähempää porvariston ja proletariaatin välisissä taisteluissa
+taloudelliset edut ovat kaikkein tärkeimmät, poliittinen voima
+palvellen ainoastaan välikappaleena tarkoitusten edistämiseksi.
+
+Sekä porvaristo että proletariaatti ovat kumpikin seurauksia
+muuttuneista taloudellisista olosuhteista, tai tarkemmin sanoen,
+muutoksista tuotantomenetelmissä.
+
+Siirtyminen ensiksi ammattikuntien kontrollin alaisesta käsityöstä
+manufaktuuriteollisuuteen ja sittemmin manufaktuuriteollisuudesta
+suurteollisuuteen, höyry- ja konevoimalla käypään teollisuuteen,
+on kehittänyt nämä kaksi luokkaa. Vissillä asteella porvariston
+käytäntöön ottamat uudet tuotantovoimat, samanaikaisesti tapahtuneen
+työnjaon, yhtenäisessä manufaktuuriteollisuudessa syntyneiden
+erinäisten työväen unioitten, vaihtomenetelmäin ja vaihdonvaatimusten
+edelleen kehittyessä, nämä olivat ristiriidassa historiallisesti
+jäljellä olevien lakimääräisten tuotantomenetelmien kanssa, se on
+ammattikuntien ja lukemattomien persoonallisten ja muiden feodaalisen
+yhteiskuntajärjestelmän etuoikeuksien (jotka etuoikeudettomille
+merkitsivät vain niin monta feodaalista kahletta) kanssa.
+Porvariston käytäntöönottamat tuotantovoimat nousivat kapinaan
+ammattikuntamestarien ja feodaalisten maaloordien tuotantomenetelmiä
+vastaan, jonka kapinan seuraukset ovat meille tunnetut; feodaaliset
+kahleet viskattiin syrjään, Englannissa asteettain, Ranskassa yhdellä
+iskulla, Saksassa ei tämä prosessi ole vielä päättänyt [lukijalle
+muistutetaan, että tämä teos on kirjoitettu 1888. — Suom. muistutus.].
+
+Samalla tavoin kuin manufaktuuri teollisuuden harjoittajat joutuivat
+ristiriitaan vissillä kehityksen asteella feodaalisen tuotantomuodon
+kanssa, samoin on suurteollisuus liittynyt porvarillisen teollisuus
+järjestelmän kanssa, voittaakseen itselleen pysyvän sijan. Tämän
+järjestelmän vaikutuksesta, johtuen tuotantomenetelmän ahtaista
+rajoista, ilmenee jatkuva kansan pohjakerrosten muuntaminen
+proletariaatiksi, ja toiselta puolen lakkaamatta lisääntyvä sellaisten
+tuotteiden kasvaminen, joille ei löydy markkinoita. Ylituotanto
+ja pohjajoukkojen lisääntyvä kurjuus, kumpikin aiheuttaen toinen
+toisensa, tämä on se mieletön ristiriitaisuus johon kapitalistinen
+tuotantojärjestelmä johtaa, ja joka välttämästi vaatii tuotantovoimien
+kontrollia, muuttuneitten tuotantomenetelmien kautta.
+
+Nykyajan historia siis ainakin näin muodoin todistaa että kaikki
+poliittiset taistelut ovat luokkataisteluja, ja että kaikki vapauden
+puolesta käytävät luokkataistelut, huolimatta niiden välttämättömästi
+poliittisesta muodosta (jokainen luokkataistelu on poliittista
+taistelua) niiden lopullinen päämäärä on taloudellinen vapautus.
+Siis ainakin tässä kohden käy selville, että valtio, poliittinen
+rakenne, on vähäarvoisempi, porvarillinen yhteiskunta, taloudellisten
+suhteiden järjestelmä, määräävä tekijä. Vanhanaikainen filosofia,
+jolle yksimpä Hegel antoi arvoa, näki valtiossa määräävän tekijän
+ja porvarillisessa järjestelmässä sen määräysten alaisen elementin.
+Pintailmiöt vastasivat tätä aatetta. Samoin kuin kaikkien yksityisten
+henkilöiden toimintavaikuttimet kulkevat hänen aivostonsa lävitse,
+jonka välityksellä ne muuntuvat hänen tahtonsa motiiveiksi, saadakseen
+hänet työhön, samoin täytyy porvarillisen yhteiskunnan toivomusten
+kanssa, olkoonpa vallitsevana mikä luokka hyvänsä, valloittaa valtion
+tahto, saadakseen yleisen hyväksymisen laeilleen. Tämä on muodollinen
+puoli asiassa, mikä on ilmeinen, kysymykseksi vain jää, mikä on
+tämän muodollisen tahdon sisältö — niin, tämänkö vain haluamme
+tietää eikä mitään muuta? Jos me tarkastamme tätä asiaa pitemmälle,
+niin me huomaamme, että nykyajan historiassa, että valtion tahdon
+kokonaisuudessaan määrää joko sen tai tämän luokan hallitsemisen
+kautta, porvarillisen yhteiskunnan muuttuneet tarpeet, loppukädessä
+tuotantovoimien ja vaihdon olosuhteiden kehityksen kautta.
+
+Mutta jos meidän nykyisenä aikanamme, jättiläismäisine
+tuotantomenetelmineen ja kauppaliikkeineen, valtio ei ole itsenäisesti
+kehittynyt riippumaton tekijä, vaan että sen olemassaolo, samoin
+kuin sen kehityskin on selitettävissä viime kädessä yhteiskunnan
+taloudellisten olojen nojalla, sitä enemmän täytyy sama asia
+olla totta kaikkiin aikaisempiin aikoihin nähden, jolloin elämän
+välttämättömyyksien tuotantoa ei voitu edistää laajoilla apukeinoilla,
+jossa niin ollen elämän välttämättömyyksien tuotanto täytyi
+suuremmassa määrin hallita ihmisten elämän ylitse. Jos valtio tänä
+päivänä, suurten teollisuuksien ja höyryrautateiden aikana, voidaan
+summata kokonaisuudessaan pelkäksi sen luokan taloudellisen tahdon
+heijastukseksi, joka kontrolleeraa tuotantoa, on sen täytynyt
+näin ollen olla sitä vieläkin suuremmassa määrin silloin, jolloin
+ihmispolven on täytynyt kuluttaa suurin osa yhdistetystä elämän
+energiastaan aineellisten tarpeittensa hankkimiseen, ja ihminen oli,
+näin ollen, paljon suuremmassa määrin riippuvainen niistä kuin mitä me
+olemme tänä päivänä. Historian aikaisempien vaiheiden tarkastaminen,
+sikäli kuin se tehdään vilpittömästi tässä mielessä, todistaa tämän
+meille runsailla esimerkeillä, mutta me emme voi käsitellä tätä asiaa
+tässä laajemmin.
+
+Jos valtio ja yleinen laki on taloudellisten olosuhteiden luomia, niin
+myös ilmeisesti on yksityinen laki, joka ainoastaan pyhittää yksilöjen
+keskinäiset suhteet vissien normaalisten taloudellisten olosuhteiden
+vallitessa. Muodot missä nämä ilmenevät, saattavat kuitenkin olla
+suuresti vaihtelevia. Joissakin tapauksissa voidaan, kuten tapahtui
+Englannissa, säilyttää suurelta osalta vanhat feodaaliset lait ja antaa
+niille keskiluokkalais-sisältö, yksimpä antaa keskiluokkalaismerkitys
+feodaalisille nimillekin, mutta toiselta puolen saattaa tapahtua kuten
+Euroopan mannermaan länsiosissa, että käytetään ensimmäistä yleistä
+tavaratuotanto-yhteiskunnan lakia, roomalaista, perusteena jossa on
+ihmeteltävän tarkat säädökset tavarain omistussuhteinen laillisista
+suhteista (tavaran myyjille, ostajille, velkojille ja velallisille,
+sopimuksille, sitoumuksille j.n.e.), joka voidaan sovelluttaa
+yleiseksi laiksi ja käyttää sitä vielä pienporvarillisessa ja
+puoleksi feodaalisessa yhteiskunnassa, tai puoleksi valistuneitten ja
+moraalisten juristien avulla (joka on kyllä paha lailliselta kannalta)
+se voidaan muokata erikoisen yhteiskunnan oloihin soveltuvaksi
+(preussilainen maalaki). Ja edelleen, jälkeen suuren porvarillisen
+vallankumouksen, kuten Ranskassa "siviililakikokoelma" voidaan muokata.
+Jos siis porvarilliset lait ainoastaan ilmaisevat yhteiskunnan
+taloudelliset olosuhteet, nämä lait voivat olla joko hyviä tai pahoja,
+riippuen olosuhteista.
+
+Valtiossa esiintyy ensimmäinen ideologinen pakkovoima ihmisten
+ylitse. Yhteiskunta muovailee itselleen orgaanin, suojelemaan yleisiä
+etujaan sekä ulkopuolisilta että sisäisiltä hyökkäyksiltä. Tämä
+orgaani on valtion pakkovoima. Se töin tuskin oli syntynyt kun se jo
+vallitsi yhteiskuntaa, ja siinä suhteessa kuin se muodostui erikoisen
+luokan orgaaniksi, se saattoi voimaan tämän luokan ylivallan. Näin
+ollen alamaisen taistelu vallitsevaa luokkaa vastaan muodostuu
+välttämättä poliittiseksi, ensi kädessä taisteluksi tämän vallitsevan
+luokan poliittista vallintaa vastaan. Tietoisuus tästä poliittisen
+taistelun yhteydestä taloudellisten johtavien syiden kanssa, käy yhä
+hämäräpäisemmäksi ja saattaa kokonaan kadota näköpiiristä. Ellei nyt
+kokonaan näin ole asianlaita taisteleviin luokkiin ja niiden yksilöihin
+nähden, pitää se jokseenkin paikkansa historioitsijoihin nähden. Rooman
+tasavallan historian muinaislähteistä ainoastaan Appian antaa meille
+valaisevat ja selvät tiedot, osottaen sen perustuneen maanomistukselle.
+
+Mutta kun valtio muodostui yhteiskuntaa vallitsevaksi riippumattomaksi
+voimaksi, sikäli se myöskin näytteli suurempaa aatteellista osaa.
+Jokapäiväiset politikoitsijat ja lakitieteen teoritsijat, ja
+erikoisesti juristien keskuudessa, tämä tosiasia on kokonaan kadonnut
+näköpiiristä. Koska jokaisessa yksityisessä tapauksessa taloudellisen
+seikan täytyy pukeutua juridiseen muotoon, jotta se voitaisiin
+hyväksyä lain muodossa, ja koska, näin ollen, täytyy tarkastaa koko
+lakijärjestelmän menneisyys, josta on seurauksena, että juridinen
+muoto näyttää olevan kaikki kaikessa ja asian taloudellinen sisältö
+ei mitään. Yleisiä ja yksityisluontoisia lakeja aletaan pitää
+riippumattomana alana, joilla on oma itsenäinen historiallinen
+kehityksensä, joita pidetään pätevästi edustuksellisina ja ajan
+tarpeita vastaavana, kun niistä on jatkuvasti karsittu pois sisäisiä
+ristiriitaisuuksia.
+
+Vieläkin korkeammat ideologiset käsitykset, se on, vieläkin etäämpänä
+taloudellisista perusteista, ottavat filosofian ja uskonnon muodon.
+Näissä aatteiden kosketus olemassa olevien materialististen
+olosuhteiden kanssa käy yhä monimutkaisemmaksi ja vaikeammin
+huomattavaksi, niitä yhdistävien renkaitten moninaisuuden vuoksi, mutta
+tämä yhteys on olemassa. Renesanssi aina viidennentoista vuosisadan
+keskivaiheilta saakka, oli kokonaisuudessaan kaupunkielämän tuote, ja
+niin ollen porvariston vaikutuksen alainen, niin myös oli filosofia,
+kun se tämän jälkeen uudestaan virkosi. Sen sisältö oli yksinomaan
+ajatusten filosofista tulkintaa pien- ja keskiluokkalaisporvariston
+kehittymisestä suurporvaristoksi. Myöhemmillä vuosisadoilla
+englantilaisten ja ranskalaisten keskuudessa, jotka olivat suurimmalta
+osalta yhtä hyviä poliittisen taloustieteen tuntijoita kuin he olivat
+filosofejakin, tämä on sangen silmiinpistävää, ja meillä on siitä
+sangen elävä todistus hegeliläisessä koulukunnassa.
+
+Luokaamme nyt pikainen silmäys uskontoon, koska se osoittautui olevan
+etäämmällä ja kaikkein vierain aineelliselle elämälle. Uskonto
+syntyi ihmiskunnan kehityksen sangen varhaisella aikakaudella,
+raakalaisasteella, ihmisten eräitten erheellisten ja barbaaristen
+käsitysten vaikuttimista, jotka käsitykset koskivat ihmisiä itseään
+ja niiden ympäröivää maailmaa. Jokainen ideologinen mielijohde,
+joka kerran on syntynyt, kuitenkin myöskin kehittyy; se kasvaa ja
+edelleen kehittyy sille aatteelle annetuista lisäyksistä, ilman
+tätä ei olisi olemassa ideologiaa, se on, ei olisi olemassa mitään
+ajatuksia riippumattomana ajatusjärjestelmänä, joka kehittyy
+riippumattomasti ja on ainoastaan omien lakien alainen. Että näiden
+ihmisten aineelliset elämän ehdot, joiden päissä tämä ajatuskoneisto
+työskentelee, loppukädessä määrittelee tämän ajatusprosessin, ei ollut
+tunnettu heille, muussa tapauksessa ideologiaa ei olisi olemassa.
+Nämä alkuperäiset uskonnolliset mielijohteet näin muodoin, jotka ovat
+suurimmaksi osaksi samanmukaisia kaikille samalla asteella oleville
+kansaryhmille, kehittyvät näiden ryhmien jakaantuessa, jokaiselle
+heimolle erinäiseen suuntaan, niiden erilaisten olosuhteiden mukaan
+missä he kukin elävät, ja tämä kehitys on osoitettu sellaisille
+kansan ryhmille kuin indo-eurooppalaisille vertailevan mytologian
+avulla. Jokaisen heimokunnan itselleen kehittämät jumalat olivat
+kansallisia jumalia, joiden valta ei ulottunut etäämmälle kansallisen
+alueen rajoja; rajantakainen alue oli toisten jumalien valta-aluetta.
+Jumalien olemassaolo käsitettiin ainoastaan kansakunnan olemassaolon
+yhteydessä. Ne kukistuivat kansakunnan kukistuessa. Tämä vanha
+nationalistinen käsitys syntyi Rooman valtakunnan vaiheiden
+yhteydessä, jonka taloudellisia olosuhteita meidän ei tarvitse tässä
+nyt lähemmin tarkastaa. Kun roomalaiset, jotka olivat asettuneet
+Rooman kaupungin ahtaitten rajojen sisälle, hävisivät, hävisivät
+myöskin heidän vanhat kansalliset jumalansa. Pyrkimys muodostaa
+valtakunta maailman valtakunnaksi maailmanlaajuisen uskonnon kautta,
+näkyy selvästi yrityksissä antaa Roomassa tunnustus ja tilaisuus
+jumalan palveluksien viettoon kaikkien ulkomaalaisten jumalien
+hyväksi, kotimaisten jumalien rinnalla. Mutta maailman uskontoa ei
+voitu muodostaa tällaisen imperialistisen päätöksen kautta. Uusi
+mailman uskonto, kristinusko, oli jo syntynyt salaisesti, muodostuen
+orientaalisten uskontojen sekoituksesta, varustettuna juutalaisella
+teologialla, kansantajuistettuna kreikkalaisella filosofialla ja
+erikoisesti stoalaisella filosofialla. Meidän täytyy ensiksi vaivautua
+tarkastamaan minkälaisena tämä uskonto alkuperäisesti ilmeni, sillä
+sen virallinen muoto, sellaisena kuin se on meille annettu, on pelkkä
+valtion uskonto, joksi se tehtiin kirkko-isien neuvoston kautta. Se
+seikka jo yksistään, että tiima uskonto kahdensadan viidenkymmenen
+vuoden olemassaolonsa jälkeen muodostui valtion uskonnoksi, on
+kylliksi osoittanut meille, että se oli uskonto, joka vastasi
+ajan vaatimuksia. Keskiajalla se todisti tämän sangen selvästi.
+Sikäli kuin feodalismi kehittyi, samassa suhteessa löi se leimansa
+uskontoon, kirkon hierarkia vastaten kirkollisessa järjestelmässä
+feodalismia yhteiskunnallisessa järjestelmässä. Ja kun porvaristo
+nousi, muuntui uskonto protestanttiseksi herännäisyydeksi, mikä
+asettui sotajalalle katolisia feodalismia vastaan, tämä tapahtui
+ensiksi Etelä-Ranskassa, albigenien keskuudessa, mikä siihen aikaan
+oli korkeimmalle kehittyneiden vapaa-kaupunkien tyyssija. Keskiaika
+oli liittänyt itseensä kaikki vielä jäljellä olevat aatteelliset
+muodot, kuten filosofian, politiikan ja oikeustieteen, pelkiksi
+lisäkkeiksi teologiaan. Se pakotti näin ollen kaikki yhteiskunnalliset
+ja poliittiset liikkeet omaksumaan teologisen muodon; lopulta, kun
+kansan syvien rivien mielet oli täytetty uskonnolla, oli välttämätöntä
+osottaa heidän etunsa uskonnon muodossa, voidakseen nostattaa heitä
+kapinaan. Samoin kuin porvariston komento heti alusta alkaen toi
+näyttämölle omaisuudettomat plebeijit, päivätyöläisinä ja kaikenlaisina
+palvelijoina, ilman että heillä olisi ollut minkäänlaista omaisuutta
+tai asemaa kaupungeissaan, samoin herännäisyys jakaantui jo sangen
+varhain kahteen haaraan, toinen maltillinen, kansalaisia varten, toinen
+vallankumouksellinen, plebeijejä (varsinaisten proletaarien edeltäjiä)
+varten, jota viimemainittua uskonnon haaraa porvarilliset herännäiset
+katkerasti vihasivat.
+
+Protestanttista herännäisyyttä ei kyetty pysäyttämään enempi kuin
+porvaristonkaan nousevaa voimaa siihen aikaan; ja sikäli kuin tämä
+voima kasvoi, kasvoi myöskin taistelu feodaali-ylimystöä vastaan,
+tämä taistelu ollen ensin paikallista, mutta sittemmin saaden
+yleiskansallisen luonteen. Ensimmäinen suuri taistelu tapahtui Saksassa
+n.k. reformaationa. Porvariston voima ei ollut kylliksi suuri eikä
+myöskään kylliksi kehittynyt avonaista taistelua varten, liittääkseen
+mukaansa kapinaan kaupunkilais-plebeijit, pienemmän aateliston ja
+talonpoikaisväestön. Ensimmäinen isku tähdättiin aatelistoa vastaan,
+talonpojat ottaen koko vallankumouksen johdon käsiinsä, kaupungit
+jättäen heidät yksin ja niin vallankumouksen johto jäi maalaisväestön
+käsiin, joka myöskin niitti siitä voiton itselleen. Tämän vuoksi
+Saksa katosikin kolmeksi sadaksi vuodeksi itsenäisten, energisesti
+kehityskykyisten maiden joukossa. Mutta saksalaisen Lutherin jälkeen
+nousi ranskalainen Calvin, Ranskalaisen luonteen terävyydellä hän
+osotti kirkollisessa vallankumouksessa porvarillisen luonteen,
+tasavaltalaistettuna ja kansanvaltaistettuna. Samalla aikaa kuin
+lutherilainen reformatsioni Saksassa häipyi, calvinistisuus palveli
+tasavaltalaisuuden aseena Genevessä, Hollandissa, Skotlantissa,
+vapauttaen Hollandin, Saksan ja Espanjan vallanalaisuudesta ja
+varusti porvarillisen vallankumouksen toisen näytöksen aatteellisella
+verholla, joka jatkui Englannissa. Täällä kalvinismi muodostui olemassa
+olevan porvarillisen vallan etujen luonnolliseksi aatteelliseksi
+kaavuksi, eikä jatkanut pitemmälle kuin mitä saavutettiin 1689 vuoden
+kompromississa osan aateliston ja keskiluokan kanssa. Englannin
+vallitseva kirkko saatettiin jälleen valtaan, mutta ei entisessä
+muodossaan, jonka mukaan kuninkaan tuli olla Paavin käskyläinen,
+vaan voimakkaasti kalvinismin aatteiden omaksumana. Vanha vallitseva
+kirkko oli viettänyt ainoastaan katolisia sunnuntaita ja taistellut
+jatkuvaa kalvinistisen sunnuntaita vastaan, uusi porvarillinen kirkko
+otti viimemainitun käytäntöön ja siten lisäsi paljon Englannin
+viehättäväisyyttä.
+
+Ranskassa kalvinistinen vähemmistö tukahdutettiin 1685, joko
+tehtiin heistä katolilaisia tai karkotettiin maasta. Mutta mitä
+hyvää siitä oli? Heti tämän jälkeen vapaa-ajattelija Pierre Bayle
+aloitti työnsä ja Voltaire [lue Voltäär. — Suom. muistutus.] syntyi
+v. 1694. Louis XIV:sta tyrannihallitus vain helpotti Ranskan
+porvarillisen vallankumouksen syntymistä poliittisessa muodossa,
+jotta se lopullisesti vastaisi edistysmielisen ateistisen porvariston
+vaatimuksia. Protestanttien sijasta vapaa-ajattelijat ottivat sijansa
+kansalliskokouksessa. Näin joutui kristinusko viimerappuselleen. Se
+oli tullut kykenemättömäksi palvelemaan enään mitään edistysmielistä
+luokkaa aatteellisena välikappaleena, se muodostui yhä enemmän
+vallitsevien luokkien yksinoikeudeksi ja he käyttivät sitä yksinomaan
+hallitusvälikappaleenaan, pitääkseen alempia luokkia valtansa
+alaisuudessa. Niinpä jokainen näistä luokista käytti heille soveltuvaa
+uskontoa, maanomistajat käyttivät katolista jesuiittamaisuutta tai
+protestanttista oikeaoppisuutta, vapaamielinen ja radikaalinen
+porvaristo vaapa-aatteisuutta, eikä ollut mitään väliä näin ollen
+uskoivatko näiden uskontojen käyttäjät itse näitä aatteitaan tai ei.
+
+Täten me näemme, että uskonto, joka on kerran syntynyt
+materialistisista traditsioneista, on siis kaikissa aatteellisissa
+asioissa suuri taantumuksellinen voima. Mutta siinä tapahtuvat
+muutokset johtuvat luokkasuhteista, se on, niiden ihmisten
+taloudellisista olosuhteista, jotka ottavat nämä muutokset
+suorittaakseen. Ja tämä riittäköön tässä kohden tästä asiasta.
+
+Tällä kertaa on meille mahdollista antaa ainoastaan yleiset piirteet
+marxilaisen filosofian historiasta ja erikoisesti sen ilmiöistä.
+Sille löydetään todisteet historiasta itsestään, ja minä haluaisin
+sanoa, että se on riittävästi osotettu muissa kirjoituksissamme.
+Tämä filosofia on kuitenkin viimeinen filosofia historiassa, juuri
+samalla tavalla kuin dialektinen luonnon filosofiakin teki kaikki muut
+luonnon filosofiat mahdottomiksi. Itseasiassa ei ole tarpeellista
+selostaa keskinäisiä suhteita, vaan etsiä ne itse asiain yhteydessä.
+Sen sijaan että me pakottaisimme filosofian ulos luonnosta ja
+historiasta, jäljelle jää enään ainoastaan puhdas ajatuksen tuote,
+ajatteluprosessin, logiikan ja dialektiikan opettaminen.
+
+1848 vallankumouksen aikana "valistunut" Saksa antoi taisteluhaasteen
+teorialle ja ryhtyi toimintaan. Pienteollisuudesta riippuva käsityö
+ja manufaktuuriteollisuus joutui pyyhkäistyksi pois suurteollisuuden
+tieltä ja Saksa ilmestyi jälleen maailman markkinoille. Uusi
+erikoistunut Saksa hävitti kaikessa tapauksessa huutavimman
+epäjärjestyksen, minkä pienten valtioiden hallitukset, feodalismin
+jätteet ja byrokraattinen talouden pito olivat luoneet ajallaan;
+mutta juuri samassa suhteessa kuin keinottelijat ylenantoivat
+filosofian tutkimisen, ottaakseen paikkansa pörssissä, se suuri
+teoreettinen ajattelu, mikä oli ollut Saksan ylpeys sen syvimmän
+poliittisen ahdingon aikana, oli ollut merkki puhtaasta tieteellisestä
+edistyksestä, huolimatta käytännöllisistä, hyödyllisistä tuloksista, ja
+huolimatta siitä, ettei sitä ollut poliisit hyväksyneet, tämä kaikki
+hävisi nyt valistuneesta Saksasta. On totta, että Saksan virallinen
+luonnontiede säilytti edelleen asemansa, erikoisesti yksilöllisten
+löytöjen alalla, ollen siinä ajastaan edellä, mutta nyt huomauttaa
+amerikalainen tieteellinen aikakausilehti "Science" (Tiede), että mitä
+tulee etenemiseen laajemmassa mittakaavassa, johon sisältyy erinäisten
+yksityisten tosiasiain keskinäisten suhteiden selostus ja niiden
+harmoniseeraaminen yhden lain alaisiksi, siinä suhteessa on Englanti
+ratkaisevasti edellä, sen sijaan että aikaisemmin oli Saksa juuri tässä
+suhteessa etevämpi. Ja mitä tulee historiallisiin tieteisiin, filosofia
+niihin luettuna klassisen filosofian kanssa, vanha teoreettinen
+henki, joka ei välitä persoonallisista saavutuksista, kaikki tämä
+aluksi kokonaan hävisi. Näiden sijaan astui ajattelematon — sen mikä
+miellytti ihmisiä — hyväksyminen, ahnas taaksepäin katsominen ja ennen
+kaikkea tulot, nämä harrastukset mitä alhaisimmassa muodossa astuivat
+edellisten tilalle. Tämänlaisen tieteen viralliset edustajat ovat
+muodostuneet avomielisiksi porvariston ja valtiovallan ideoiogisteiksi,
+aikana, jolloin nämä molemmat asettuvat avonaisesti vihamieliselle
+kannalle työväenluokkia vastaan.
+
+Ainoastaan Saksan työväenluokkalaisten keskuudessa henkiset
+ajatteluharrastukset edelleen jatkuvat. Heistä sitä ei voida
+hävittää. Heidän keskuudessaan me emme näe katseltavan taaksepäin,
+heitä ei kannusta voitonhimo, heille ei ojenneta suojelevaa kättä
+yläluokkalaisten taholta, työväenluokka kulkee yhä itsenäisemmin
+ja yhä esteettömämmin tieteen mukana eteenpäin, ja sitä enemmän se
+huomaa olevansa sopusoinnussa luokkansa etujen ja pyrkimysten kanssa.
+Se uusi suunta, joka työväen kehityksen historiassa teki tunnetuksi
+yhteiskunnan yleismaailmallisen historian ymmärtämisen avaimen, esitti
+itsensä ensikädessä työväenluokalle ja löysi sen keskuudessa lämpimän
+vastaanoton ja hyväksymisen, jota se ei hakenut eikä odottanutkaan
+viralliselta tieteeltä. Saksan työväenliike on Saksan klassisen
+filosofian perillinen.
+
+
+
+
+LIITE.
+
+Marx Feuerbachista.
+
+(Brysselissä keväällä 1845.)
+
+I.
+
+Pääasiallisin heikkous kaikissa materialistisissa filosofeissa tähän
+asti, niihin sisältyen myöskin Feuerbachin filosofia, on se, että
+esine, todellisuus, vaikutus, on peitetty sen tarkoituksen suojiin,
+joka esitetään silmälle nähtäväksi, mutta ei inhimillisenä tunnelmana
+— toimintana, "käytäntönä", subjektiivisesti. Täten on tapahtunut,
+että aktiivinen puoli vastustuksessa materialismille on kehitetty
+idealismista, mutta ainoastaan abstraktisesti; tämä oli luonnollista,
+koska idealismi ei tunnusta kouraantuntuvia tosiasioita sellaisinaan.
+Feuerbach on tosin halukas eroittamaan vaikutelmien näkyvät kohteet
+ajatuksissa ilmenevistä kohteista, mutta hän ei katso inhimillistä
+toimintaa itseään objektiivisena toimintana. Niimpä hän teoksessaan
+"Wesen des Christenthums", katsoo ainoastaan teoreettisen toiminnan
+yleisesti inhimillisenä, samalla kun "käytäntö" on peitetty ja asetettu
+sangen epätyydyttävään muotoon.
+
+II.
+
+Kysymys, onko objektiivinen totuus mahdollinen inhimilliselle
+ajatukselle, ei ole teoreettinen vaan käytännöllinen kysymys. Ihmisen
+on käytännössä osotettava totuus, siinä ilmenee hänen varsinaisten
+ajatustensa todellisuus ja voima. Kiista ajatuksen todellisuudesta tai
+ei-todellisuudesta, "käytännöstä", on puhtaasti skolastinen kysymys.
+
+III.
+
+Se materialistinen oppi, joka selittää ihmisen olevan olosuhteitten ja
+valistuksen tuloksen, ja siis erilaisissa olosuhteissa elävän ihmisen
+toisenlaisten olosuhteitten ja valistuksen tuloksen, unhottaa että
+olosuhteet ovat ihmisten muutettavissa ja että valistajaa itseään
+voidaan valistaa. Näinmuodoin välttämättömästi tapahtuu siten, että
+yhteiskunta on jakaantunut kahteen osaan, josta toinen on nostettu
+yhteiskunnan yläpuolelle (Robert Owenin esimerkki).
+
+Ainoastaan samanaikaisesti tapahtuva olosuhteitten muutos ja
+inhimillinen toiminta voidaan käsittää ja järkevästi tajuta
+vallankumoukselliseksi tekijäksi.
+
+IV.
+
+Feuerbach alkaa itsekohtaisesta uskonnollisuusharrastuksesta, tehden
+maailmasta samalla kertaa uskonnollisen, mielikuvituksellisen, ja
+todellisen mailman. Hänen teoksensa käsittää uskonnollisen mailman
+materialististen perusteitten löytämisen. Hän ylenkatsoi sen tosiasian,
+että sen jälkeen kun hän oli tämän suorittanut, sangen tärkeä seikka
+jäi vielä huomioonottamatta. Se seikka, että materialistinen peruste
+hävittää itsensä ja ottaa itselleen sijan pilvissä, voidaan ainoastaan
+selittää johtuneen sekavuudesta ja materialististen perusteitten
+ristiriitaisesta selityksestä. Tämä ristiriitaisuus on käsitettävä,
+ennen kuin se voidaan täydellisesti vallankumouksellisentaa ja
+siten hävittää ristiriitaisuudet. Sen jälkeen kuin maallinen perhe
+on löydetty salaisuutena pyhälle perheelle, jonkun on täytynyt
+teoreettisesti arvostella ja vallankumouksellisentaa se ennakolta.
+
+V.
+
+Kun Feuerbach ei ole tyydytetty abstraktisista totuuksista, hän
+loitsii tunnelmien luomia mielikuvituksia, mutta ei kykene käsittämään
+tunnelmia käytännöllisinä tunnelmatoimintoina.
+
+VI.
+
+Feuerbach ratkaisee uskonnon ihmisyydessä. Mutta ihmisyys ei ole
+sellainen abstraktisuus, joka asuu jokaisessa yksilössä. Se on
+todellisuudessa heijastus yhteiskunnallisista olosuhteista.
+
+Feuerbach, joka ei syvenny tähän tosiasiaan, on näinmuodoin pakotettu:
+
+Poimimaan historian kulusta uskonnollisen ilmiön, ja asettamaan sen
+otaksuttavasti abstraktisen, eristetyn inhimillisen yksilön tilalle.
+
+Hän käsittää siis ihmiskunnan ainoastaan lajeina, pelkkänä
+salaperäisenä monien lajien luonnollisena ilmiönä, joka on kokoonpantu
+monista yhteenliittyneistä yksilöistä.
+
+VII.
+
+Näinmuodoin Feuerbach ei huomaa, että uskonnollinen mieliala itse on
+yhteiskunnan tuote, ja että abstraktinen yksilö, jota hän analysoi,
+kuuluu todellisuudessa vissiin yhteiskuntamuotoon.
+
+Yhteiskunnallinen elämä on välttämättömästi käytännöllinen.
+Kaikki salaperäisyydet, jotka johtavat keinotekoiset ajatukset
+mystillisyyteen, tulevat paljastetuiksi inhimillisessä käytännössä ja
+tämän käytännön käsittämisessä.
+
+IX.
+
+Korkein päämäärä minkä sellainen materialismi, joka perustuu tunteille
+eikä käytännöllisille tosiasioille, on saavuttanut, on se näkökanta
+minkä porvarillisen yhteiskunnan yksilö omaa.
+
+X.
+
+Vanhan materialismin peruste on "porvarillinen" yhteiskunta; uuden,
+inhimillinen yhteiskunta, yhteenliittynyt ihmisyys.
+
+XI.
+
+Filosofit ovat ainoastaan selostaneet mailmaa eri tavalla, mutta
+tärkeintä on sen muuttaminen.
+
+LOPPU.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 74991 ***
